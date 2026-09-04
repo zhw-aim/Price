@@ -1,0 +1,31 @@
+{
+  "schema_version": 9,
+  "skill_release": "current",
+  "dataset_roles": {
+    "current": "current_run_products_table",
+    "historical": "historical_real_observations_plus_explicit_carry_forward",
+    "baseline": "reference_only_never_current"
+  },
+  "history_cache_mode": "incremental",
+  "is_mock_data": false,
+  "source": "dashboard_export",
+  "source_output_dir": "output\\latest",
+  "generated_at_utc": "2026-09-04T07:58:09+00:00",
+  "last_run_at_utc": "2026-09-04T07:57:58+00:00",
+  "last_run_date": "2026-09-04",
+  "safe_data_only": true,
+  "current_price_authority": "current_run_products_table",
+  "current_price_snapshot_file": "current_price_snapshot.json",
+  "current_price_data_revision": "4c7ed6e7761fc928664c",
+  "current_price_overlay_rows": {
+    "ug_rows": 270,
+    "competitor_rows": 90,
+    "rationality_rows": 0
+  },
+  "static_history_storage": {
+    "codec": "gzip-json-v1",
+    "price_trends_file": "price_trends.json.gz",
+    "detail_chunk_dir": "price_trends_chunks",
+    "legacy_uncompressed_supported": true
+  }
+}

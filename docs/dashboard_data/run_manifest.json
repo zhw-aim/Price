@@ -1,0 +1,33 @@
+{
+  "skill_release": "current",
+  "schema_version": 9,
+  "generated_at_utc": "2026-09-04T07:58:02+00:00",
+  "run_id": "cloud_phone_monitor_20260904_074027",
+  "source_output_dir": "output\\cloud_phone_monitor_20260904_074027",
+  "git_commit": null,
+  "start_time_utc": "2026-09-04T07:40:27+00:00",
+  "end_time_utc": "2026-09-04T07:57:58+00:00",
+  "records_by_platform": {
+    "VSPhone": 4084,
+    "Redfinger": 129,
+    "LDCloud": 569,
+    "UgPhone": 202
+  },
+  "collection_contract": {
+    "overall_status": "warning",
+    "overall_coverage_ratio": 0.449
+  },
+  "data_roles": {
+    "current": "products.csv/products.xlsx from this run only",
+    "historical": "prior real product observations plus explicit carry-forward",
+    "baseline": "reference/comparison only; prohibited from becoming a current observation"
+  },
+  "availability_states": [
+    "available",
+    "missing_collection",
+    "unavailable",
+    "discontinued",
+    "not_applicable",
+    "unknown"
+  ]
+}

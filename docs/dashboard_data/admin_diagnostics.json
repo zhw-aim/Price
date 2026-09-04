@@ -1,0 +1,197 @@
+{
+  "generated_at_utc": "2026-09-04T07:58:10+00:00",
+  "platform_diagnostics": [
+    {
+      "platform": "UgPhone",
+      "login_required": true,
+      "login_checked": false,
+      "login_status": "unknown",
+      "login_check_method": "manual_check",
+      "login_error_message": "",
+      "collection_status": "success",
+      "collection_health": "ok",
+      "baseline_coverage_status": "unknown",
+      "baseline_coverage_ratio": null,
+      "fallback_to_baseline": false,
+      "fallback_reason": "",
+      "unmatched_current_rows": 0,
+      "missing_baseline_rows": 0
+    },
+    {
+      "platform": "VSPhone",
+      "login_required": true,
+      "login_checked": false,
+      "login_status": "unknown",
+      "login_check_method": "manual_check",
+      "login_error_message": "",
+      "collection_status": "success",
+      "collection_health": "ok",
+      "baseline_coverage_status": "unknown",
+      "baseline_coverage_ratio": null,
+      "fallback_to_baseline": false,
+      "fallback_reason": "",
+      "unmatched_current_rows": 0,
+      "missing_baseline_rows": 0
+    },
+    {
+      "platform": "Redfinger",
+      "login_required": true,
+      "login_checked": false,
+      "login_status": "unknown",
+      "login_check_method": "manual_check",
+      "login_error_message": "",
+      "collection_status": "success",
+      "collection_health": "ok",
+      "baseline_coverage_status": "unknown",
+      "baseline_coverage_ratio": null,
+      "fallback_to_baseline": false,
+      "fallback_reason": "",
+      "unmatched_current_rows": 0,
+      "missing_baseline_rows": 0
+    },
+    {
+      "platform": "LDCloud",
+      "login_required": true,
+      "login_checked": false,
+      "login_status": "unknown",
+      "login_check_method": "manual_check",
+      "login_error_message": "",
+      "collection_status": "success",
+      "collection_health": "ok",
+      "baseline_coverage_status": "unknown",
+      "baseline_coverage_ratio": null,
+      "fallback_to_baseline": false,
+      "fallback_reason": "",
+      "unmatched_current_rows": 0,
+      "missing_baseline_rows": 0
+    }
+  ],
+  "blocked_pages": {},
+  "failed_pages": {},
+  "warnings": [],
+  "fallback_to_baseline_rows": 0,
+  "unmatched_current_rows": [],
+  "missing_baseline_rows": [],
+  "raw_run_summary": {
+    "skill_release": "current",
+    "schema_version": 9,
+    "start_time_utc": "2026-09-04T07:40:27+00:00",
+    "end_time_utc": "2026-09-04T07:57:58+00:00",
+    "targets": {
+      "VSPhone": "https://cloud.vsphone.com/buy",
+      "Redfinger": "https://www.cloudemulator.net/app/buy?utm_source=buying-guide&utm_medium=btn&utm_campaign=buy-btn&channelCode=web",
+      "LDCloud": "https://www.ldcloud.net/web/mobile/buy",
+      "UgPhone": "https://www.ugphone.com/toc-portal/#/purchaseDevice"
+    },
+    "blocked_pages": {},
+    "failed_pages": {},
+    "warnings": [],
+    "api_candidate_count": 152,
+    "platform_persistent_profiles": {
+      "UgPhone": "output\\auth\\ugphone_profile"
+    },
+    "platform_runtime_contexts": {
+      "UgPhone": {
+        "path": "output\\auth\\ugphone_runtime_context.json",
+        "loaded": false,
+        "summary": {
+          "schema_version": null,
+          "captured_at_utc": null,
+          "age_seconds": null,
+          "max_age_seconds": 1800,
+          "restoration_policy": "fill_missing_only",
+          "session_storage_key_count": 0,
+          "local_storage_key_count": 0,
+          "api_header_keys": [],
+          "api_endpoint_count": 0,
+          "api_responses": []
+        }
+      }
+    },
+    "collection_contract": {
+      "overall_status": "warning",
+      "overall_coverage_ratio": 0.449,
+      "platforms": {
+        "UgPhone": {
+          "status": "warning",
+          "coverage_ratio": 0.449
+        },
+        "VSPhone": {
+          "status": "ok",
+          "coverage_ratio": 1.0
+        },
+        "Redfinger": {
+          "status": "ok",
+          "coverage_ratio": 1.0
+        },
+        "LDCloud": {
+          "status": "ok",
+          "coverage_ratio": 1.0
+        }
+      }
+    },
+    "quality_price_monitor": {
+      "enabled": true,
+      "report_path": "output\\cloud_phone_monitor_20260904_074027\\quality_price_report.xlsx",
+      "ug_config_count": 25,
+      "pairing_rows": 270,
+      "quality_adjusted_rows": 270,
+      "relative_index_rows": 25,
+      "critical_alerts": 0,
+      "warning_alerts": 6,
+      "not_comparable_rows": 117
+    },
+    "baseline_monitor": {
+      "baseline_found": false,
+      "baseline_path": "baselines\\products_baseline.xlsx",
+      "daily_changes_path": "output\\cloud_phone_monitor_20260904_074027\\daily_changes.xlsx",
+      "current_products": 366
+    },
+    "total_records": 4984,
+    "records_by_platform": {
+      "VSPhone": 4084,
+      "Redfinger": 129,
+      "LDCloud": 569,
+      "UgPhone": 202
+    },
+    "missing_field_stats": {
+      "schema_version": 0,
+      "dataset_role": 0,
+      "data_origin": 0,
+      "availability_status": 0,
+      "canonical_product_key": 0,
+      "platform": 0,
+      "source_url": 0,
+      "crawl_time_utc": 0,
+      "crawl_time_local": 0,
+      "supported_server_regions": 0,
+      "currency": 0,
+      "product_category": 0,
+      "product_name": 0,
+      "product_model": 0,
+      "device_model": 129,
+      "android_version": 336,
+      "cpu": 4084,
+      "ram": 4084,
+      "storage": 4213,
+      "price": 0,
+      "original_price": 0,
+      "discount_price": 4984,
+      "billing_period": 0,
+      "duration": 0,
+      "purchase_mode": 698,
+      "stock_status": 0,
+      "promotion_text": 0,
+      "promotion_start_time": 4984,
+      "promotion_end_time": 4984,
+      "raw_text": 0,
+      "extraction_method": 0,
+      "confidence": 0,
+      "screenshot_path": 0,
+      "html_path": 0,
+      "api_response_path": 202,
+      "notes": 0,
+      "record_hash": 0
+    }
+  }
+}

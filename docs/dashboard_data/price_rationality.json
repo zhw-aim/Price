@@ -1,0 +1,54 @@
+{
+  "rows": [
+    {
+      "platform": null,
+      "product_model": null,
+      "device_model": null,
+      "android_version": null,
+      "cpu": null,
+      "ram": null,
+      "storage": null,
+      "duration_days": null,
+      "baseline_effective_price_30d": null,
+      "current_effective_price_30d": null,
+      "own_price_index": null,
+      "baseline_list_price_30d": null,
+      "current_list_price_30d": null,
+      "list_price_index": null,
+      "baseline_discount_rate": null,
+      "current_discount_rate": null,
+      "discount_rate_change": null,
+      "baseline_promotion_text": null,
+      "current_promotion_text": null,
+      "baseline_supported_server_regions": null,
+      "current_supported_server_regions": null,
+      "reason_code": "baseline_missing",
+      "alert_level": "info",
+      "notes": "baseline missing or empty; baseline-dependent price rationality fields are intentionally blank.",
+      "reason_explanation_zh": "baseline_missing",
+      "reason_explanation_en": "baseline_missing"
+    }
+  ],
+  "reason_explanations": {
+    "promo_change": "主要由活动价或促销文案变化导致。",
+    "list_price_change": "官方原价发生变化。",
+    "competitor_following": "UgPhone 与竞品中位价同方向变化。",
+    "config_change": "配置变化导致价格不可直接比较。",
+    "region_supply_change": "地区或服务器覆盖发生变化。",
+    "duration_structure_change": "购买时长结构发生变化。",
+    "stock_status_change": "库存状态发生变化。",
+    "abnormal_unexplained": "无法由已知因素解释，需要人工复核。",
+    "unchanged": "无明显变化。"
+  },
+  "reason_explanations_en": {
+    "promo_change": "The change is mainly caused by promotion copy or promotional price changes.",
+    "list_price_change": "The official list price changed.",
+    "competitor_following": "UgPhone moved in the same direction as the competitor median.",
+    "config_change": "The product configuration changed, so prices are not directly comparable.",
+    "region_supply_change": "Server region coverage changed.",
+    "duration_structure_change": "The available duration structure changed.",
+    "stock_status_change": "Stock status changed.",
+    "abnormal_unexplained": "The change is not explained by known factors and needs manual review.",
+    "unchanged": "No meaningful change detected."
+  }
+}

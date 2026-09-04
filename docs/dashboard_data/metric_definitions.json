@@ -1,0 +1,119 @@
+[
+  {
+    "name_zh": "当前成交价",
+    "field": "current_price",
+    "meaning": "当前采集到的实际成交价格。",
+    "source": "products.xlsx / quality_price_report.xlsx 的当前价格字段。",
+    "calculation": "同购买天数下直接使用成交价；不会使用划线原价。",
+    "interpretation": "用于判断用户真实需要支付的价格。",
+    "pitfall": "不要把页面上的原价或划线价当成成交价。"
+  },
+  {
+    "name_zh": "上次价格",
+    "field": "previous_price",
+    "meaning": "上一次成功采集的同商品同天数成交价。",
+    "source": "历史采集或 baseline；历史不足时使用可用基准价并记录样本不足。",
+    "calculation": "按 baseline key 匹配平台、配置和核心购买天数。",
+    "interpretation": "用于判断本次现价相对上次是否上涨或下降。",
+    "pitfall": "历史不足时不要过度解读趋势。"
+  },
+  {
+    "name_zh": "Baseline 价格",
+    "field": "baseline_price",
+    "meaning": "已确认产品结构中的基准成交价。",
+    "source": "baseline_products_updated.xlsx 或质量报告中的 baseline 对比。",
+    "calculation": "严格按 baseline 产品结构和购买天数匹配。",
+    "interpretation": "用于维持前台展示结构稳定。",
+    "pitfall": "当天抓到但无法匹配 baseline 的临时商品不进入前台。"
+  },
+  {
+    "name_zh": "价格变化比例",
+    "field": "price_change_pct",
+    "meaning": "当前价相对上次价的变化比例。",
+    "source": "current_price 与 previous_price。",
+    "calculation": "(current_price - previous_price) / previous_price。",
+    "interpretation": "正数表示涨价，负数表示降价。",
+    "pitfall": "previous_price 缺失时不计算。"
+  },
+  {
+    "name_zh": "7日均价",
+    "field": "seven_day_avg_price",
+    "meaning": "最近 7 天同商品同天数成交价均值。",
+    "source": "历史输出；历史不足时标记样本数。",
+    "calculation": "sum(price) / sample_count。",
+    "interpretation": "用于平滑单日价格波动。",
+    "pitfall": "样本数不足 7 时只能辅助参考。"
+  },
+  {
+    "name_zh": "30日均价",
+    "field": "thirty_day_avg_price",
+    "meaning": "最近 30 天同商品同天数成交价均值。",
+    "source": "历史输出；历史不足时标记样本数。",
+    "calculation": "sum(price) / sample_count。",
+    "interpretation": "用于判断中期价格水平。",
+    "pitfall": "样本不足 30 时不要当作完整月度均价。"
+  },
+  {
+    "name_zh": "配置相似度",
+    "field": "config_similarity_score",
+    "meaning": "UgPhone 配置与竞品配置的相似度分数。",
+    "source": "quality_price_report.xlsx 配置配对建议。",
+    "calculation": "综合 Android、CPU、内存、存储、服务器地区和购买天数。",
+    "interpretation": "分数越高越适合进入价格比较。",
+    "pitfall": "套餐名不是主要匹配依据。"
+  },
+  {
+    "name_zh": "竞品中位价",
+    "field": "competitor_median_price",
+    "meaning": "同购买天数下 strong_match / adjusted_match 竞品当前价格中位数。",
+    "source": "duration_price_comparison.json。",
+    "calculation": "只取核心可比竞品价格的中位数。",
+    "interpretation": "用于判断 UgPhone 是否高于或低于竞品。",
+    "pitfall": "weak_match 不进入核心中位数。"
+  },
+  {
+    "name_zh": "UgPhone 相对竞品指数",
+    "field": "ugphone_relative_index",
+    "meaning": "UgPhone 当前价相对竞品中位价的指数。",
+    "source": "UgPhone 当前价与竞品中位价。",
+    "calculation": "UgPhone 当前价 / 竞品中位价 × 100。",
+    "interpretation": "小于 90 偏低，90-105 有竞争力，105-115 略高，大于 115 明显偏高。",
+    "pitfall": "这里按同购买天数比较，不默认使用 30 天等效价。"
+  },
+  {
+    "name_zh": "商品文本变化",
+    "field": "promotion_text_changed",
+    "meaning": "商品或活动文案是否相对上次发生变化。",
+    "source": "promotion_text / raw_text。",
+    "calculation": "当前文本与上次文本比较。",
+    "interpretation": "用于人工判断是否出现秒杀、促销、限时、组合包。",
+    "pitfall": "不要用原价或折扣率推断活动。"
+  },
+  {
+    "name_zh": "价格来源",
+    "field": "price_source",
+    "meaning": "说明趋势点使用的是当天采集、上一轮价格、baseline 补齐还是缺失。",
+    "source": "price_trends.json / price_change_tracking.json。",
+    "calculation": "current 表示当天真实采集；previous 表示上一轮；baseline_fallback 表示当天缺失但 baseline 有价；missing 表示当前与 baseline 都没有价格。",
+    "interpretation": "看到 baseline_fallback 时，趋势线保持不断，但该点不是当天新抓到的真实价格。",
+    "pitfall": "不要把 baseline_fallback 当作当天价格已经确认未变化。"
+  },
+  {
+    "name_zh": "购买天数分档",
+    "field": "duration_bucket",
+    "meaning": "把购买周期归入 1/3/7/15/30/60/90/180/365 或 other。",
+    "source": "duration 字段解析结果。",
+    "calculation": "只有完全等于 7、30、90、180、365 天的记录进入核心分档，其余小时包、45天、120天等进入 other。",
+    "interpretation": "前台默认只比较核心购买天数，避免把短周期活动包误当作月价。",
+    "pitfall": "不要把 4小时、3天、45天强行折算进 7天或30天核心比较。"
+  },
+  {
+    "name_zh": "配对等级",
+    "field": "comparability_level",
+    "meaning": "说明竞品配置与 UgPhone 基准配置是否可比。",
+    "source": "配置相似度评分和手工推荐配对。",
+    "calculation": "strong_match、adjusted_match 进入核心竞品中位数；weak_match 只辅助观察；not_comparable 不进入价格判断。",
+    "interpretation": "价格比较优先看 strong_match 和 adjusted_match。",
+    "pitfall": "weak_match 或 not_comparable 的低价不能直接证明 UgPhone 偏贵。"
+  }
+]

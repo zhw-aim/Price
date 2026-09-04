@@ -1,0 +1,40 @@
+{
+  "schema_version": 9,
+  "skill_release": "current",
+  "codec": "gzip-json-v1",
+  "price_trends_file": "price_trends.json.gz",
+  "detail_chunk_dir": "price_trends_chunks",
+  "compressed_asset_count": 3,
+  "raw_history_bytes": 9909771,
+  "stored_history_bytes": 162284,
+  "saved_bytes": 9747487,
+  "space_saving_pct": 98.36,
+  "assets": [
+    {
+      "file": "price_trends.json.gz",
+      "codec": "gzip-json-v1",
+      "raw_bytes": 894289,
+      "stored_bytes": 26911,
+      "saved_bytes": 867378,
+      "compression_ratio": 0.030092
+    },
+    {
+      "file": "price_trends_chunks/price_trends_detail_0001.json.gz",
+      "codec": "gzip-json-v1",
+      "raw_bytes": 5167457,
+      "stored_bytes": 75132,
+      "saved_bytes": 5092325,
+      "compression_ratio": 0.014539
+    },
+    {
+      "file": "price_trends_chunks/price_trends_detail_0002.json.gz",
+      "codec": "gzip-json-v1",
+      "raw_bytes": 3848025,
+      "stored_bytes": 60241,
+      "saved_bytes": 3787784,
+      "compression_ratio": 0.015655
+    }
+  ],
+  "browser_loading_rule": "Fetch .json.gz as bytes; if gzip magic is present, decompress with DecompressionStream('gzip'); if hosting already decoded it, parse returned UTF-8 JSON directly.",
+  "legacy_fallback": "Frontend also accepts legacy uncompressed price_trends.json and detail chunks during transition."
+}

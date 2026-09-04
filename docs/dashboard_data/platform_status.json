@@ -1,0 +1,50 @@
+[
+  {
+    "platform": "UgPhone",
+    "status": "ok",
+    "collection_status": "ok",
+    "baseline_coverage_status": "unknown",
+    "baseline_coverage_ratio": null,
+    "raw_records": 202,
+    "product_rows": 83,
+    "priced_product_rows": 83,
+    "baseline_rows": 0,
+    "missing_vs_baseline": 0
+  },
+  {
+    "platform": "VSPhone",
+    "status": "ok",
+    "collection_status": "ok",
+    "baseline_coverage_status": "unknown",
+    "baseline_coverage_ratio": null,
+    "raw_records": 4084,
+    "product_rows": 366,
+    "priced_product_rows": 366,
+    "baseline_rows": 0,
+    "missing_vs_baseline": 0
+  },
+  {
+    "platform": "Redfinger",
+    "status": "ok",
+    "collection_status": "ok",
+    "baseline_coverage_status": "unknown",
+    "baseline_coverage_ratio": null,
+    "raw_records": 129,
+    "product_rows": 27,
+    "priced_product_rows": 27,
+    "baseline_rows": 0,
+    "missing_vs_baseline": 0
+  },
+  {
+    "platform": "LDCloud",
+    "status": "ok",
+    "collection_status": "ok",
+    "baseline_coverage_status": "unknown",
+    "baseline_coverage_ratio": null,
+    "raw_records": 569,
+    "product_rows": 230,
+    "priced_product_rows": 230,
+    "baseline_rows": 0,
+    "missing_vs_baseline": 0
+  }
+]

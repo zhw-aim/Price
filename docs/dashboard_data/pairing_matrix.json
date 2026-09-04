@@ -1,0 +1,222 @@
+[
+  {
+    "ug_config_id": "uvip___android_10___3_cores___3gb___30gb",
+    "ug_config": "UVIP / Android 10 / 3 cores / 3GB / 30GB",
+    "ug_product_model": "UVIP",
+    "android_version": "10",
+    "cpu": "3 cores",
+    "ram": "3GB",
+    "storage": "30GB",
+    "pairings": {
+      "VSPhone": {
+        "competitor_platform": "VSPhone",
+        "competitor_product_model": "Basic",
+        "competitor_config": "Basic / Android 10 / - / - / -",
+        "config_similarity_score": 56,
+        "comparability_level": "not_comparable",
+        "pairing_source": "manual_mapping",
+        "pairing_notes": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same",
+        "included_in_core_median": false,
+        "exclusion_reason": "not_comparable"
+      },
+      "Redfinger": {
+        "competitor_platform": "Redfinger",
+        "competitor_product_model": "VIP",
+        "competitor_config": "VIP / Android 12 / 8 cores / 4GB / -",
+        "config_similarity_score": 62,
+        "comparability_level": "weak_match",
+        "pairing_source": "manual_mapping",
+        "pairing_notes": "手工推荐: VIP / Android 10 / 8C / 4GB / 64GB；配置明显高于 UG，不进入核心定价判断或仅作弱配对。; android_competitor_higher; cpu_competitor_higher; ram_competitor_higher; storage_missing; region_overlap; duration_same",
+        "included_in_core_median": false,
+        "exclusion_reason": "weak_match_not_in_core_median"
+      },
+      "LDCloud": {
+        "competitor_platform": "LDCloud",
+        "competitor_product_model": "VIP",
+        "competitor_config": "VIP / Android 10 / 3 cores / 4GB / 45GB",
+        "config_similarity_score": 82,
+        "comparability_level": "adjusted_match",
+        "pairing_source": "manual_mapping",
+        "pairing_notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_same; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same",
+        "included_in_core_median": true,
+        "exclusion_reason": ""
+      }
+    }
+  },
+  {
+    "ug_config_id": "gvip___android_10___4_cores___4gb___64gb",
+    "ug_config": "GVIP / Android 10 / 4 cores / 4GB / 64GB",
+    "ug_product_model": "GVIP",
+    "android_version": "10",
+    "cpu": "4 cores",
+    "ram": "4GB",
+    "storage": "64GB",
+    "pairings": {
+      "VSPhone": {
+        "competitor_platform": "VSPhone",
+        "competitor_product_model": "VIP",
+        "competitor_config": "VIP / Android 10 / - / - / -",
+        "config_similarity_score": 56,
+        "comparability_level": "not_comparable",
+        "pairing_source": "manual_mapping",
+        "pairing_notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same",
+        "included_in_core_median": false,
+        "exclusion_reason": "not_comparable"
+      },
+      "Redfinger": {
+        "competitor_platform": "Redfinger",
+        "competitor_product_model": "VIP",
+        "competitor_config": "VIP / Android 12 / 8 cores / 4GB / -",
+        "config_similarity_score": 70,
+        "comparability_level": "weak_match",
+        "pairing_source": "manual_mapping",
+        "pairing_notes": "手工推荐: VIP；CPU 明显高于 UG，弱配对。; android_competitor_higher; cpu_competitor_higher; ram_same; storage_missing; region_overlap; duration_same",
+        "included_in_core_median": false,
+        "exclusion_reason": "weak_match_not_in_core_median"
+      },
+      "LDCloud": {
+        "competitor_platform": "LDCloud",
+        "competitor_product_model": "KVIP",
+        "competitor_config": "KVIP / Android 10 / 4 cores / 5.3GB / 64GB",
+        "config_similarity_score": 90.12,
+        "comparability_level": "strong_match",
+        "pairing_source": "manual_mapping",
+        "pairing_notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same",
+        "included_in_core_median": true,
+        "exclusion_reason": ""
+      }
+    }
+  },
+  {
+    "ug_config_id": "gvip___android_12___4_cores___4gb___64gb",
+    "ug_config": "GVIP / Android 12 / 4 cores / 4GB / 64GB",
+    "ug_product_model": "GVIP",
+    "android_version": "12",
+    "cpu": "4 cores",
+    "ram": "4GB",
+    "storage": "64GB",
+    "pairings": {
+      "VSPhone": {
+        "competitor_platform": "VSPhone",
+        "competitor_product_model": "VIP",
+        "competitor_config": "VIP / Android 13 / - / - / -",
+        "config_similarity_score": 51,
+        "comparability_level": "not_comparable",
+        "pairing_source": "manual_mapping",
+        "pairing_notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same",
+        "included_in_core_median": false,
+        "exclusion_reason": "not_comparable"
+      },
+      "Redfinger": {
+        "competitor_platform": "Redfinger",
+        "competitor_product_model": "VIP",
+        "competitor_config": "VIP / Android 12 / 8 cores / 4GB / -",
+        "config_similarity_score": 70,
+        "comparability_level": "weak_match",
+        "pairing_source": "manual_mapping",
+        "pairing_notes": "手工推荐: VIP；CPU 明显高于 UG，弱配对。; android_same; cpu_competitor_higher; ram_same; storage_missing; region_overlap; duration_same",
+        "included_in_core_median": false,
+        "exclusion_reason": "weak_match_not_in_core_median"
+      },
+      "LDCloud": {
+        "competitor_platform": "LDCloud",
+        "competitor_product_model": "KVIP",
+        "competitor_config": "KVIP / Android 12 / 4 cores / 5.3GB / 64GB",
+        "config_similarity_score": 87.12,
+        "comparability_level": "adjusted_match",
+        "pairing_source": "manual_mapping",
+        "pairing_notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same",
+        "included_in_core_median": true,
+        "exclusion_reason": ""
+      }
+    }
+  },
+  {
+    "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb",
+    "ug_config": "KVIP / Android 10 / 6 cores / 5.3GB / 64GB",
+    "ug_product_model": "KVIP",
+    "android_version": "10",
+    "cpu": "6 cores",
+    "ram": "5.3GB",
+    "storage": "64GB",
+    "pairings": {
+      "VSPhone": {
+        "competitor_platform": "VSPhone",
+        "competitor_product_model": "SVIP",
+        "competitor_config": "SVIP / Android 10 / - / - / -",
+        "config_similarity_score": 56,
+        "comparability_level": "not_comparable",
+        "pairing_source": "manual_mapping",
+        "pairing_notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same",
+        "included_in_core_median": false,
+        "exclusion_reason": "not_comparable"
+      },
+      "Redfinger": {
+        "competitor_platform": "Redfinger",
+        "competitor_product_model": "KVIP",
+        "competitor_config": "KVIP / Android 10 / 8 cores / 6GB / -",
+        "config_similarity_score": 71.35,
+        "comparability_level": "weak_match",
+        "pairing_source": "manual_mapping",
+        "pairing_notes": "手工推荐: KVIP / 8C / 6GB / 80GB。; android_same; cpu_competitor_higher; ram_competitor_higher; storage_missing; region_no_overlap; duration_same",
+        "included_in_core_median": false,
+        "exclusion_reason": "weak_match_not_in_core_median"
+      },
+      "LDCloud": {
+        "competitor_platform": "LDCloud",
+        "competitor_product_model": "KVIP",
+        "competitor_config": "KVIP / Android 14 / 6 cores / 8GB / 41GB",
+        "config_similarity_score": 80.17,
+        "comparability_level": "adjusted_match",
+        "pairing_source": "manual_mapping",
+        "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same",
+        "included_in_core_median": true,
+        "exclusion_reason": ""
+      }
+    }
+  },
+  {
+    "ug_config_id": "svip___android_10___8_cores___16gb___200gb",
+    "ug_config": "SVIP / Android 10 / 8 cores / 16GB / 200GB",
+    "ug_product_model": "SVIP",
+    "android_version": "10",
+    "cpu": "8 cores",
+    "ram": "16GB",
+    "storage": "200GB",
+    "pairings": {
+      "VSPhone": {
+        "competitor_platform": "VSPhone",
+        "competitor_product_model": "MVIP",
+        "competitor_config": "MVIP / Android 10 / - / - / -",
+        "config_similarity_score": 56,
+        "comparability_level": "not_comparable",
+        "pairing_source": "manual_mapping",
+        "pairing_notes": "手工推荐: MVIP / 8C / 16GB / 256GB，强配对。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same",
+        "included_in_core_median": false,
+        "exclusion_reason": "not_comparable"
+      },
+      "Redfinger": {
+        "competitor_platform": "Redfinger",
+        "competitor_product_model": "XVIP",
+        "competitor_config": "XVIP / Android 10 / 8 cores / 16GB / -",
+        "config_similarity_score": 80,
+        "comparability_level": "adjusted_match",
+        "pairing_source": "manual_mapping",
+        "pairing_notes": "手工推荐: XVIP / 8C / 16GB / 256GB，强配对。; android_same; cpu_same; ram_same; storage_missing; region_no_overlap; duration_same",
+        "included_in_core_median": true,
+        "exclusion_reason": ""
+      },
+      "LDCloud": {
+        "competitor_platform": "LDCloud",
+        "competitor_product_model": "MVIP",
+        "competitor_config": "MVIP / Android 10 / 8 cores / 16GB / 185GB",
+        "config_similarity_score": 88.5,
+        "comparability_level": "adjusted_match",
+        "pairing_source": "manual_mapping",
+        "pairing_notes": "手工推荐: MVIP10/MVIP12 / 8C / 16GB / 185GB，存储略低于 UG。; android_same; cpu_same; ram_same; storage_competitor_lower; region_no_overlap; duration_same",
+        "included_in_core_median": true,
+        "exclusion_reason": ""
+      }
+    }
+  }
+]
