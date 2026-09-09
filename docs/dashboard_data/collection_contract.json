@@ -1,7 +1,7 @@
 {
   "schema_version": 9,
   "skill_release": "current",
-  "generated_at_utc": "2026-09-04T07:57:59+00:00",
+  "generated_at_utc": "2026-09-09T06:17:26+00:00",
   "overall_coverage_ratio": 0.449,
   "overall_status": "warning",
   "platforms": [
@@ -9,8 +9,8 @@
       "platform": "UgPhone",
       "status": "warning",
       "coverage_ratio": 0.449,
-      "current_rows": 83,
-      "priced_rows": 83,
+      "current_rows": 80,
+      "priced_rows": 80,
       "baseline_reference_rows": 0,
       "baseline_row_delta": null,
       "contract_components": [
@@ -334,14 +334,14 @@
       ],
       "collector_status": "warning",
       "collector_coverage_status": "partial",
-      "collector_coverage_note": "partial_visible_matrix_returned; plans=4/5; variants=5/10; priced_regions=34/49; resolved_regions=22/49; priced_rows=202"
+      "collector_coverage_note": "partial_visible_matrix_returned; plans=4/5; variants=5/10; priced_regions=34/49; resolved_regions=22/49; priced_rows=204"
     },
     {
       "platform": "VSPhone",
       "status": "ok",
       "coverage_ratio": 1.0,
-      "current_rows": 366,
-      "priced_rows": 366,
+      "current_rows": 340,
+      "priced_rows": 340,
       "baseline_reference_rows": 0,
       "baseline_row_delta": null,
       "contract_components": [
@@ -373,8 +373,8 @@
       "platform": "Redfinger",
       "status": "ok",
       "coverage_ratio": 1.0,
-      "current_rows": 27,
-      "priced_rows": 27,
+      "current_rows": 79,
+      "priced_rows": 79,
       "baseline_reference_rows": 0,
       "baseline_row_delta": null,
       "contract_components": [],
@@ -387,8 +387,8 @@
       "platform": "LDCloud",
       "status": "ok",
       "coverage_ratio": 1.0,
-      "current_rows": 230,
-      "priced_rows": 230,
+      "current_rows": 257,
+      "priced_rows": 257,
       "baseline_reference_rows": 0,
       "baseline_row_delta": null,
       "contract_components": [],

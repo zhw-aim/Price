@@ -22,11 +22,11 @@
       "Redfinger": {
         "competitor_platform": "Redfinger",
         "competitor_product_model": "VIP",
-        "competitor_config": "VIP / Android 12 / 8 cores / 4GB / -",
-        "config_similarity_score": 62,
+        "competitor_config": "VIP / Android 10 / 8 cores / 4GB / -",
+        "config_similarity_score": 63,
         "comparability_level": "weak_match",
         "pairing_source": "manual_mapping",
-        "pairing_notes": "手工推荐: VIP / Android 10 / 8C / 4GB / 64GB；配置明显高于 UG，不进入核心定价判断或仅作弱配对。; android_competitor_higher; cpu_competitor_higher; ram_competitor_higher; storage_missing; region_overlap; duration_same",
+        "pairing_notes": "手工推荐: VIP / Android 10 / 8C / 4GB / 64GB；配置明显高于 UG，不进入核心定价判断或仅作弱配对。; android_same; cpu_competitor_higher; ram_competitor_higher; storage_missing; region_no_overlap; duration_same",
         "included_in_core_median": false,
         "exclusion_reason": "weak_match_not_in_core_median"
       },
@@ -66,11 +66,11 @@
       "Redfinger": {
         "competitor_platform": "Redfinger",
         "competitor_product_model": "VIP",
-        "competitor_config": "VIP / Android 12 / 8 cores / 4GB / -",
-        "config_similarity_score": 70,
+        "competitor_config": "VIP / Android 10 / 8 cores / 4GB / -",
+        "config_similarity_score": 68,
         "comparability_level": "weak_match",
         "pairing_source": "manual_mapping",
-        "pairing_notes": "手工推荐: VIP；CPU 明显高于 UG，弱配对。; android_competitor_higher; cpu_competitor_higher; ram_same; storage_missing; region_overlap; duration_same",
+        "pairing_notes": "手工推荐: VIP；CPU 明显高于 UG，弱配对。; android_same; cpu_competitor_higher; ram_same; storage_missing; region_no_overlap; duration_same",
         "included_in_core_median": false,
         "exclusion_reason": "weak_match_not_in_core_median"
       },
@@ -110,13 +110,13 @@
       "Redfinger": {
         "competitor_platform": "Redfinger",
         "competitor_product_model": "VIP",
-        "competitor_config": "VIP / Android 12 / 8 cores / 4GB / -",
-        "config_similarity_score": 70,
-        "comparability_level": "weak_match",
+        "competitor_config": "VIP / Android 10 / 8 cores / 4GB / -",
+        "config_similarity_score": 57,
+        "comparability_level": "not_comparable",
         "pairing_source": "manual_mapping",
-        "pairing_notes": "手工推荐: VIP；CPU 明显高于 UG，弱配对。; android_same; cpu_competitor_higher; ram_same; storage_missing; region_overlap; duration_same",
+        "pairing_notes": "手工推荐: VIP；CPU 明显高于 UG，弱配对。; android_competitor_lower_2_plus; cpu_competitor_higher; ram_same; storage_missing; region_no_overlap; duration_same",
         "included_in_core_median": false,
-        "exclusion_reason": "weak_match_not_in_core_median"
+        "exclusion_reason": "not_comparable"
       },
       "LDCloud": {
         "competitor_platform": "LDCloud",

@@ -12,7 +12,7 @@
       {
         "status": "baseline_missing",
         "baseline_path": "baselines\\products_baseline.xlsx",
-        "current_products": 366,
+        "current_products": 392,
         "message": "Create a baseline with --init-baseline or place products.xlsx at the baseline path."
       }
     ]
@@ -101,9 +101,9 @@
         "UgPhone套餐型号": "UVIP",
         "UgPhone最低价": 1.19,
         "UgPhone价格范围": "1.19",
-        "UgPhone服务器地区": "America; Germany; Hong Kong; Japan",
+        "UgPhone服务器地区": "America; Germany; Japan; Hong Kong; Singapore",
         "UgPhone活动文案": "25% off for a limited time",
-        "UgPhone匹配行数": 2,
+        "UgPhone匹配行数": 1,
         "VSPhone套餐型号": null,
         "VSPhone最低价": null,
         "VSPhone价格范围": null,
@@ -137,7 +137,7 @@
         "UgPhone套餐型号": "UVIP",
         "UgPhone最低价": 5.29,
         "UgPhone价格范围": "5.29",
-        "UgPhone服务器地区": "America; Germany; Japan; Hong Kong",
+        "UgPhone服务器地区": "America; Germany; Japan; Hong Kong; Singapore",
         "UgPhone活动文案": "25% off for a limited time",
         "UgPhone匹配行数": 1,
         "VSPhone套餐型号": null,
@@ -175,7 +175,7 @@
         "UgPhone价格范围": "32.99 - 37.99",
         "UgPhone服务器地区": "America; Germany; Japan; Hong Kong; Singapore",
         "UgPhone活动文案": "🔥Auto-Renew Deal; 25% off for a limited time",
-        "UgPhone匹配行数": 3,
+        "UgPhone匹配行数": 2,
         "VSPhone套餐型号": null,
         "VSPhone最低价": null,
         "VSPhone价格范围": null,
@@ -208,10 +208,10 @@
         "购买时长": "30 day",
         "UgPhone套餐型号": "UVIP",
         "UgPhone最低价": 6.99,
-        "UgPhone价格范围": "6.99 - 9.99",
+        "UgPhone价格范围": "6.99 - 7.99",
         "UgPhone服务器地区": "America; Germany; Japan; Hong Kong; Singapore",
-        "UgPhone活动文案": "🔥Auto-Renew Deal; 50% OFF For New User; 25% off for a limited time",
-        "UgPhone匹配行数": 4,
+        "UgPhone活动文案": "🔥Auto-Renew Deal; 50% OFF For New User; 🔥 September Promotion - 40% OFF",
+        "UgPhone匹配行数": 3,
         "VSPhone套餐型号": null,
         "VSPhone最低价": null,
         "VSPhone价格范围": null,
@@ -247,7 +247,7 @@
         "UgPhone价格范围": "69.99 - 74.99",
         "UgPhone服务器地区": "America; Germany; Japan; Hong Kong; Singapore",
         "UgPhone活动文案": "🔥Auto-Renew Deal; 25% off for a limited time",
-        "UgPhone匹配行数": 3,
+        "UgPhone匹配行数": 2,
         "VSPhone套餐型号": null,
         "VSPhone最低价": null,
         "VSPhone价格范围": null,
@@ -309,7 +309,7 @@
         "竞品套餐型号": "Basic",
         "竞品配置": "Basic / Android 10 / - / - / -",
         "竞品购买天数": 7,
-        "竞品30天等效实付价": 4.714286,
+        "竞品30天等效实付价": 8.528571,
         "质量调整系数": null,
         "质量调整后30天价": null,
         "调整后价差": null,
@@ -319,7 +319,7 @@
         "配对来源": "manual_mapping",
         "活动文案": "限时特惠",
         "支持服务器地区": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
-        "备注": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=Basic; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1"
+        "备注": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=Basic; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; api_currentPrice=199; api_goodPrice=110; device_count_defaulted_to_1"
       },
       {
         "UG套餐型号": "UVIP",
@@ -330,7 +330,7 @@
         "竞品套餐型号": "Basic",
         "竞品配置": "Basic / Android 13 / - / - / -",
         "竞品购买天数": 7,
-        "竞品30天等效实付价": 4.714286,
+        "竞品30天等效实付价": 8.528571,
         "质量调整系数": null,
         "质量调整后30天价": null,
         "调整后价差": null,
@@ -340,7 +340,7 @@
         "配对来源": "manual_mapping",
         "活动文案": "限时特惠",
         "支持服务器地区": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
-        "备注": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=Basic; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1"
+        "备注": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=Basic; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; api_currentPrice=199; api_goodPrice=110; device_count_defaulted_to_1"
       },
       {
         "UG套餐型号": "UVIP",
@@ -351,7 +351,7 @@
         "竞品套餐型号": "Basic",
         "竞品配置": "Basic / Android 14 / - / - / -",
         "竞品购买天数": 7,
-        "竞品30天等效实付价": 4.714286,
+        "竞品30天等效实付价": 8.528571,
         "质量调整系数": null,
         "质量调整后30天价": null,
         "调整后价差": null,
@@ -361,7 +361,7 @@
         "配对来源": "manual_mapping",
         "活动文案": "限时特惠",
         "支持服务器地区": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
-        "备注": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=Basic; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1"
+        "备注": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=Basic; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; api_currentPrice=199; api_goodPrice=110; device_count_defaulted_to_1"
       },
       {
         "UG套餐型号": "UVIP",
@@ -370,19 +370,19 @@
         "UG 30天等效实付价": 9.385714,
         "竞品平台": "Redfinger",
         "竞品套餐型号": "VIP",
-        "竞品配置": "VIP / Android 12 / 8 cores / 4GB / -",
-        "竞品购买天数": 30,
-        "竞品30天等效实付价": 12.95,
+        "竞品配置": "VIP / Android 10 / 8 cores / 4GB / -",
+        "竞品购买天数": 7,
+        "竞品30天等效实付价": 16.928571,
         "质量调整系数": null,
         "质量调整后30天价": null,
         "调整后价差": null,
         "调整后价差比例": null,
-        "配置相似度分": 53.5,
-        "可比性等级": "not_comparable",
+        "配置相似度分": 63,
+        "可比性等级": "weak_match",
         "配对来源": "manual_mapping",
-        "活动文案": "≈0.43/day",
-        "支持服务器地区": "Singapore; Hongkong; Thailand; Taiwan; United States; Vietnam",
-        "备注": "手工推荐: VIP / Android 10 / 8C / 4GB / 64GB；配置明显高于 UG，不进入核心定价判断或仅作弱配对。; android_competitor_higher; cpu_competitor_higher; ram_competitor_higher; storage_missing; region_overlap; duration_diff_over_30pct; not_comparable_excluded_from_quality_adjustment; signed_getGoods_api; classifyValue=15; goodsClassifyId=26; source_product_name=30-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; server_code=TW_IDC_04; server_code=US_IDC_01; device_count_defaulted_to_1"
+        "活动文案": "≈0.56/day",
+        "支持服务器地区": "Hongkong; Taiwan; Thailand; United States; North America; Vietnam",
+        "备注": "手工推荐: VIP / Android 10 / 8C / 4GB / 64GB；配置明显高于 UG，不进入核心定价判断或仅作弱配对。; android_same; cpu_competitor_higher; ram_competitor_higher; storage_missing; region_no_overlap; duration_same; quality_adjustment_missing_fields:storage; signed_getGoods_api; classifyValue=15; goodsClassifyId=20; source_product_name=7-Day; server_code=HK_IDC_01; server_code=TW_IDC_04; server_code=TH_IDC_01; server_code=US_IDC_01; server_code=BMBLS_IDC_01; device_count_defaulted_to_1"
       },
       {
         "UG套餐型号": "UVIP",
@@ -391,19 +391,19 @@
         "UG 30天等效实付价": 9.385714,
         "竞品平台": "Redfinger",
         "竞品套餐型号": "VIP",
-        "竞品配置": "VIP / Android 12 / 8 cores / 4GB / -",
-        "竞品购买天数": 180,
-        "竞品30天等效实付价": 12.658333,
+        "竞品配置": "VIP / Android 10 / 8 cores / 4GB / -",
+        "竞品购买天数": 1,
+        "竞品30天等效实付价": 29.7,
         "质量调整系数": null,
         "质量调整后30天价": null,
         "调整后价差": null,
         "调整后价差比例": null,
-        "配置相似度分": 53.5,
+        "配置相似度分": 54,
         "可比性等级": "not_comparable",
         "配对来源": "manual_mapping",
-        "活动文案": "≈0.42/day",
-        "支持服务器地区": "Singapore; Hongkong; Thailand; Taiwan; United States; Vietnam",
-        "备注": "手工推荐: VIP / Android 10 / 8C / 4GB / 64GB；配置明显高于 UG，不进入核心定价判断或仅作弱配对。; android_competitor_higher; cpu_competitor_higher; ram_competitor_higher; storage_missing; region_overlap; duration_diff_over_30pct; not_comparable_excluded_from_quality_adjustment; signed_getGoods_api; classifyValue=15; goodsClassifyId=26; source_product_name=180-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; server_code=TW_IDC_04; server_code=US_IDC_01; device_count_defaulted_to_1"
+        "活动文案": "≈0.99/day",
+        "支持服务器地区": "Hongkong; Taiwan; Thailand; United States; North America; Vietnam",
+        "备注": "手工推荐: VIP / Android 10 / 8C / 4GB / 64GB；配置明显高于 UG，不进入核心定价判断或仅作弱配对。; android_same; cpu_competitor_higher; ram_competitor_higher; storage_missing; region_no_overlap; duration_diff_over_30pct; not_comparable_excluded_from_quality_adjustment; signed_getGoods_api; classifyValue=15; goodsClassifyId=20; source_product_name=1-Day; server_code=HK_IDC_01; server_code=TW_IDC_04; server_code=TH_IDC_01; server_code=US_IDC_01; server_code=BMBLS_IDC_01; device_count_defaulted_to_1"
       }
     ]
   }

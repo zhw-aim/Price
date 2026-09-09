@@ -1,11 +1,11 @@
 {
-  "start_time_utc": "2026-09-04T07:40:27+00:00",
-  "end_time_utc": "2026-09-04T07:57:58+00:00",
+  "start_time_utc": "2026-09-09T04:26:39+00:00",
+  "end_time_utc": "2026-09-09T06:17:22+00:00",
   "records_by_platform": {
-    "VSPhone": 4084,
-    "Redfinger": 129,
-    "LDCloud": 569,
-    "UgPhone": 202
+    "VSPhone": 4058,
+    "Redfinger": 358,
+    "LDCloud": 550,
+    "UgPhone": 204
   },
   "blocked_pages": {},
   "failed_pages": {},
@@ -13,19 +13,19 @@
   "baseline_monitor": {
     "baseline_found": false,
     "baseline_path": "baselines\\products_baseline.xlsx",
-    "daily_changes_path": "output\\cloud_phone_monitor_20260904_074027\\daily_changes.xlsx",
-    "current_products": 366
+    "daily_changes_path": "output\\cloud_phone_monitor_20260909_042639\\daily_changes.xlsx",
+    "current_products": 392
   },
   "quality_price_monitor": {
     "enabled": true,
-    "report_path": "output\\cloud_phone_monitor_20260904_074027\\quality_price_report.xlsx",
+    "report_path": "output\\cloud_phone_monitor_20260909_042639\\quality_price_report.xlsx",
     "ug_config_count": 25,
     "pairing_rows": 270,
     "quality_adjusted_rows": 270,
     "relative_index_rows": 25,
-    "critical_alerts": 0,
-    "warning_alerts": 6,
-    "not_comparable_rows": 117
+    "critical_alerts": 1,
+    "warning_alerts": 1,
+    "not_comparable_rows": 126
   },
   "missing_field_stats": {
     "schema_version": 0,
@@ -42,27 +42,27 @@
     "product_category": 0,
     "product_name": 0,
     "product_model": 0,
-    "device_model": 129,
+    "device_model": 358,
     "android_version": 336,
-    "cpu": 4084,
-    "ram": 4084,
-    "storage": 4213,
+    "cpu": 4058,
+    "ram": 4058,
+    "storage": 4416,
     "price": 0,
-    "original_price": 0,
-    "discount_price": 4984,
+    "original_price": 360,
+    "discount_price": 5170,
     "billing_period": 0,
     "duration": 0,
-    "purchase_mode": 698,
+    "purchase_mode": 908,
     "stock_status": 0,
     "promotion_text": 0,
-    "promotion_start_time": 4984,
-    "promotion_end_time": 4984,
+    "promotion_start_time": 5170,
+    "promotion_end_time": 5170,
     "raw_text": 0,
     "extraction_method": 0,
     "confidence": 0,
     "screenshot_path": 0,
     "html_path": 0,
-    "api_response_path": 202,
+    "api_response_path": 204,
     "notes": 0,
     "record_hash": 0
   }
