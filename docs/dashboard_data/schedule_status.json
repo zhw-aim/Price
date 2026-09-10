@@ -2,10 +2,10 @@
   "scheduler_enabled": true,
   "scheduler_type": "windows_task_scheduler",
   "schedule_time_local": "10:00",
-  "last_run_time": "2026-09-09T06:17:22+00:00",
+  "last_run_time": "2026-09-10T02:20:02+00:00",
   "last_run_status": "running",
-  "next_run_time_estimated": "2026-09-10T10:00:00+08:00",
-  "last_run_duration_seconds": 6643,
+  "next_run_time_estimated": "2026-09-11T10:00:00+08:00",
+  "last_run_duration_seconds": 1144,
   "data_freshness_status": "fresh",
   "stale_after_hours": 30,
   "logs_path": "output\\scheduler_logs"

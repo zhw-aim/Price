@@ -3,28 +3,28 @@
     "name": "products.csv",
     "path": "output\\latest\\products.csv",
     "exists": true,
-    "size_bytes": 4873008,
+    "size_bytes": 4720707,
     "safe_to_open": true
   },
   {
     "name": "products.xlsx",
     "path": "output\\latest\\products.xlsx",
     "exists": true,
-    "size_bytes": 227962,
+    "size_bytes": 224806,
     "safe_to_open": true
   },
   {
     "name": "products.jsonl",
     "path": "output\\latest\\products.jsonl",
     "exists": true,
-    "size_bytes": 29246817,
+    "size_bytes": 29006475,
     "safe_to_open": true
   },
   {
     "name": "daily_changes.xlsx",
     "path": "output\\latest\\daily_changes.xlsx",
     "exists": true,
-    "size_bytes": 36668,
+    "size_bytes": 32433,
     "safe_to_open": true
   },
   {
@@ -38,28 +38,28 @@
     "name": "quality_price_report.xlsx",
     "path": "output\\latest\\quality_price_report.xlsx",
     "exists": true,
-    "size_bytes": 65669,
+    "size_bytes": 56770,
     "safe_to_open": true
   },
   {
     "name": "run_summary.json",
     "path": "output\\latest\\run_summary.json",
     "exists": true,
-    "size_bytes": 3611,
+    "size_bytes": 3612,
     "safe_to_open": true
   },
   {
     "name": "collection_contract.json",
     "path": "output\\latest\\collection_contract.json",
     "exists": true,
-    "size_bytes": 11765,
+    "size_bytes": 12808,
     "safe_to_open": true
   },
   {
     "name": "run_manifest.json",
     "path": "output\\latest\\run_manifest.json",
     "exists": true,
-    "size_bytes": 1002,
+    "size_bytes": 1003,
     "safe_to_open": true
   },
   {
@@ -80,21 +80,21 @@
     "name": "dashboard_data/pairing_matrix.json",
     "path": "output\\latest\\dashboard_data\\pairing_matrix.json",
     "exists": true,
-    "size_bytes": 10599,
+    "size_bytes": 8469,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/duration_price_comparison.json",
     "path": "output\\latest\\dashboard_data\\duration_price_comparison.json",
     "exists": true,
-    "size_bytes": 104469,
+    "size_bytes": 83583,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/price_trends.json.gz",
     "path": "output\\latest\\dashboard_data\\price_trends.json.gz",
     "exists": true,
-    "size_bytes": 45874,
+    "size_bytes": 46281,
     "safe_to_open": true
   },
   {
@@ -136,28 +136,28 @@
     "name": "dashboard_data/current_price_snapshot.json",
     "path": "output\\latest\\dashboard_data\\current_price_snapshot.json",
     "exists": true,
-    "size_bytes": 614629,
+    "size_bytes": 601315,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/collection_contract.json",
     "path": "output\\latest\\dashboard_data\\collection_contract.json",
     "exists": true,
-    "size_bytes": 11765,
+    "size_bytes": 12808,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/run_manifest.json",
     "path": "output\\latest\\dashboard_data\\run_manifest.json",
     "exists": true,
-    "size_bytes": 1002,
+    "size_bytes": 1003,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/history_storage.json",
     "path": "output\\latest\\dashboard_data\\history_storage.json",
     "exists": true,
-    "size_bytes": 2602,
+    "size_bytes": 2847,
     "safe_to_open": true
   }
 ]

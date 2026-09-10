@@ -12,7 +12,7 @@
       {
         "status": "baseline_missing",
         "baseline_path": "baselines\\products_baseline.xlsx",
-        "current_products": 392,
+        "current_products": 383,
         "message": "Create a baseline with --init-baseline or place products.xlsx at the baseline path."
       }
     ]
@@ -55,7 +55,7 @@
   },
   {
     "sheet": "UG同配置价格对比",
-    "rows": 28,
+    "rows": 26,
     "columns": [
       "CPU",
       "内存",
@@ -277,7 +277,7 @@
   },
   {
     "sheet": "UG相近配置价格对比",
-    "rows": 270,
+    "rows": 225,
     "columns": [
       "UG套餐型号",
       "UG配置",

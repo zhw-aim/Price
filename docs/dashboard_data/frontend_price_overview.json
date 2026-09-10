@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-09T06:17:22+00:00",
-  "baseline_config_count": 5,
+  "updated_at": "2026-09-10T02:20:02+00:00",
+  "baseline_config_count": 4,
   "core_duration_buckets": [
     1,
     3,
@@ -11,23 +11,23 @@
     180,
     365
   ],
-  "rows_compared": 25,
-  "rows_total_before_exclusions": 25,
+  "rows_compared": 20,
+  "rows_total_before_exclusions": 20,
   "excluded_from_market_position_count": 0,
   "analysis_status_counts": {
-    "current_observed": 25
+    "current_observed": 20
   },
   "market_position_status_counts": {
-    "comparable": 25
+    "comparable": 20
   },
   "market_position_counts": {
-    "below_market": 19,
+    "below_market": 15,
     "slightly_high": 1,
-    "competitive": 4,
+    "competitive": 3,
     "high": 1
   },
   "above_market_count": 2,
-  "below_market_count": 19,
+  "below_market_count": 15,
   "attention_items": [
     {
       "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb",

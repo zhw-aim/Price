@@ -151,81 +151,6 @@
       "notes": "core uses strong_match and adjusted_match only; weak_match median is informational."
     },
     {
-      "ug_product_model": "GVIP",
-      "ug_config": "GVIP / Android 12 / 4 cores / 4GB / 64GB",
-      "duration_days": 7,
-      "ug_effective_price_30d": 10.671429,
-      "competitor_median_quality_adjusted_price_30d": 27.653179,
-      "core_match_rows": 3,
-      "weak_match_rows": 0,
-      "weak_median_quality_adjusted_price_30d": null,
-      "ugphone_relative_index": 38.590243,
-      "market_position_label": "below_market",
-      "alert_level": "none",
-      "reason_code": "unchanged",
-      "notes": "core uses strong_match and adjusted_match only; weak_match median is informational."
-    },
-    {
-      "ug_product_model": "GVIP",
-      "ug_config": "GVIP / Android 12 / 4 cores / 4GB / 64GB",
-      "duration_days": 30,
-      "ug_effective_price_30d": 8.99,
-      "competitor_median_quality_adjusted_price_30d": 10.811561,
-      "core_match_rows": 3,
-      "weak_match_rows": 0,
-      "weak_median_quality_adjusted_price_30d": null,
-      "ugphone_relative_index": 83.15173,
-      "market_position_label": "below_market",
-      "alert_level": "none",
-      "reason_code": "unchanged",
-      "notes": "core uses strong_match and adjusted_match only; weak_match median is informational."
-    },
-    {
-      "ug_product_model": "GVIP",
-      "ug_config": "GVIP / Android 12 / 4 cores / 4GB / 64GB",
-      "duration_days": 90,
-      "ug_effective_price_30d": 7.663333,
-      "competitor_median_quality_adjusted_price_30d": 9.243931,
-      "core_match_rows": 3,
-      "weak_match_rows": 0,
-      "weak_median_quality_adjusted_price_30d": null,
-      "ugphone_relative_index": 82.901235,
-      "market_position_label": "below_market",
-      "alert_level": "none",
-      "reason_code": "unchanged",
-      "notes": "core uses strong_match and adjusted_match only; weak_match median is informational."
-    },
-    {
-      "ug_product_model": "GVIP",
-      "ug_config": "GVIP / Android 12 / 4 cores / 4GB / 64GB",
-      "duration_days": 180,
-      "ug_effective_price_30d": 5.998333,
-      "competitor_median_quality_adjusted_price_30d": 7.858189,
-      "core_match_rows": 3,
-      "weak_match_rows": 0,
-      "weak_median_quality_adjusted_price_30d": null,
-      "ugphone_relative_index": 76.332257,
-      "market_position_label": "below_market",
-      "alert_level": "none",
-      "reason_code": "unchanged",
-      "notes": "core uses strong_match and adjusted_match only; weak_match median is informational."
-    },
-    {
-      "ug_product_model": "GVIP",
-      "ug_config": "GVIP / Android 12 / 4 cores / 4GB / 64GB",
-      "duration_days": 365,
-      "ug_effective_price_30d": 6.163562,
-      "competitor_median_quality_adjusted_price_30d": 7.395761,
-      "core_match_rows": 3,
-      "weak_match_rows": 0,
-      "weak_median_quality_adjusted_price_30d": null,
-      "ugphone_relative_index": 83.339118,
-      "market_position_label": "below_market",
-      "alert_level": "none",
-      "reason_code": "unchanged",
-      "notes": "core uses strong_match and adjusted_match only; weak_match median is informational."
-    },
-    {
       "ug_product_model": "KVIP",
       "ug_config": "KVIP / Android 10 / 6 cores / 5.3GB / 64GB",
       "duration_days": 7,
@@ -379,7 +304,7 @@
   "market_position_distribution": [
     {
       "name": "below_market",
-      "value": 15
+      "value": 10
     },
     {
       "name": "competitive",
@@ -401,7 +326,7 @@
     },
     {
       "name": "none",
-      "value": 23
+      "value": 18
     },
     {
       "name": "warning",
@@ -415,7 +340,7 @@
     },
     {
       "name": "medium",
-      "value": 20
+      "value": 15
     }
   ],
   "alert_priority_board": [

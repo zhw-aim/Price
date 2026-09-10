@@ -88,50 +88,6 @@
     }
   },
   {
-    "ug_config_id": "gvip___android_12___4_cores___4gb___64gb",
-    "ug_config": "GVIP / Android 12 / 4 cores / 4GB / 64GB",
-    "ug_product_model": "GVIP",
-    "android_version": "12",
-    "cpu": "4 cores",
-    "ram": "4GB",
-    "storage": "64GB",
-    "pairings": {
-      "VSPhone": {
-        "competitor_platform": "VSPhone",
-        "competitor_product_model": "VIP",
-        "competitor_config": "VIP / Android 13 / - / - / -",
-        "config_similarity_score": 51,
-        "comparability_level": "not_comparable",
-        "pairing_source": "manual_mapping",
-        "pairing_notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same",
-        "included_in_core_median": false,
-        "exclusion_reason": "not_comparable"
-      },
-      "Redfinger": {
-        "competitor_platform": "Redfinger",
-        "competitor_product_model": "VIP",
-        "competitor_config": "VIP / Android 10 / 8 cores / 4GB / -",
-        "config_similarity_score": 57,
-        "comparability_level": "not_comparable",
-        "pairing_source": "manual_mapping",
-        "pairing_notes": "手工推荐: VIP；CPU 明显高于 UG，弱配对。; android_competitor_lower_2_plus; cpu_competitor_higher; ram_same; storage_missing; region_no_overlap; duration_same",
-        "included_in_core_median": false,
-        "exclusion_reason": "not_comparable"
-      },
-      "LDCloud": {
-        "competitor_platform": "LDCloud",
-        "competitor_product_model": "KVIP",
-        "competitor_config": "KVIP / Android 12 / 4 cores / 5.3GB / 64GB",
-        "config_similarity_score": 87.12,
-        "comparability_level": "adjusted_match",
-        "pairing_source": "manual_mapping",
-        "pairing_notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same",
-        "included_in_core_median": true,
-        "exclusion_reason": ""
-      }
-    }
-  },
-  {
     "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb",
     "ug_config": "KVIP / Android 10 / 6 cores / 5.3GB / 64GB",
     "ug_product_model": "KVIP",
