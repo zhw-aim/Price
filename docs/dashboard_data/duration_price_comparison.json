@@ -623,7 +623,7 @@
         "exclusion_reason": "",
         "ugphone_price": 9.99,
         "ugphone_current_observed": true,
-        "ugphone_non_subscription_observed": true,
+        "ugphone_non_subscription_observed": false,
         "ugphone_price_source": "current_products",
         "analysis_status": "current_observed",
         "availability_status": "available",

@@ -12,7 +12,7 @@
       {
         "status": "baseline_missing",
         "baseline_path": "baselines\\products_baseline.xlsx",
-        "current_products": 383,
+        "current_products": 385,
         "message": "Create a baseline with --init-baseline or place products.xlsx at the baseline path."
       }
     ]
@@ -55,7 +55,7 @@
   },
   {
     "sheet": "UG同配置价格对比",
-    "rows": 26,
+    "rows": 28,
     "columns": [
       "CPU",
       "内存",
@@ -318,7 +318,7 @@
         "可比性等级": "not_comparable",
         "配对来源": "manual_mapping",
         "活动文案": "限时特惠",
-        "支持服务器地区": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
+        "支持服务器地区": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; South Korea; Japan; Italy; United States",
         "备注": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=Basic; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; api_currentPrice=199; api_goodPrice=110; device_count_defaulted_to_1"
       },
       {
@@ -339,7 +339,7 @@
         "可比性等级": "not_comparable",
         "配对来源": "manual_mapping",
         "活动文案": "限时特惠",
-        "支持服务器地区": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
+        "支持服务器地区": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; South Korea; Japan; Italy; United States",
         "备注": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=Basic; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; api_currentPrice=199; api_goodPrice=110; device_count_defaulted_to_1"
       },
       {
@@ -360,7 +360,7 @@
         "可比性等级": "not_comparable",
         "配对来源": "manual_mapping",
         "活动文案": "限时特惠",
-        "支持服务器地区": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
+        "支持服务器地区": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; South Korea; Japan; Italy; United States",
         "备注": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=Basic; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; api_currentPrice=199; api_goodPrice=110; device_count_defaulted_to_1"
       },
       {

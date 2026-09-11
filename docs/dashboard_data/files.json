@@ -3,28 +3,28 @@
     "name": "products.csv",
     "path": "output\\latest\\products.csv",
     "exists": true,
-    "size_bytes": 4720707,
+    "size_bytes": 4747864,
     "safe_to_open": true
   },
   {
     "name": "products.xlsx",
     "path": "output\\latest\\products.xlsx",
     "exists": true,
-    "size_bytes": 224806,
+    "size_bytes": 231110,
     "safe_to_open": true
   },
   {
     "name": "products.jsonl",
     "path": "output\\latest\\products.jsonl",
     "exists": true,
-    "size_bytes": 29006475,
+    "size_bytes": 29017501,
     "safe_to_open": true
   },
   {
     "name": "daily_changes.xlsx",
     "path": "output\\latest\\daily_changes.xlsx",
     "exists": true,
-    "size_bytes": 32433,
+    "size_bytes": 32648,
     "safe_to_open": true
   },
   {
@@ -38,7 +38,7 @@
     "name": "quality_price_report.xlsx",
     "path": "output\\latest\\quality_price_report.xlsx",
     "exists": true,
-    "size_bytes": 56770,
+    "size_bytes": 56751,
     "safe_to_open": true
   },
   {
@@ -87,14 +87,14 @@
     "name": "dashboard_data/duration_price_comparison.json",
     "path": "output\\latest\\dashboard_data\\duration_price_comparison.json",
     "exists": true,
-    "size_bytes": 83583,
+    "size_bytes": 83584,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/price_trends.json.gz",
     "path": "output\\latest\\dashboard_data\\price_trends.json.gz",
     "exists": true,
-    "size_bytes": 46281,
+    "size_bytes": 48988,
     "safe_to_open": true
   },
   {
@@ -136,7 +136,7 @@
     "name": "dashboard_data/current_price_snapshot.json",
     "path": "output\\latest\\dashboard_data\\current_price_snapshot.json",
     "exists": true,
-    "size_bytes": 601315,
+    "size_bytes": 602037,
     "safe_to_open": true
   },
   {

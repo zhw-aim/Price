@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-10T02:20:32+00:00",
+  "generated_at_utc": "2026-09-11T02:20:35+00:00",
   "platform_diagnostics": [
     {
       "platform": "UgPhone",
@@ -75,8 +75,8 @@
   "raw_run_summary": {
     "skill_release": "current",
     "schema_version": 9,
-    "start_time_utc": "2026-09-10T02:00:58+00:00",
-    "end_time_utc": "2026-09-10T02:20:02+00:00",
+    "start_time_utc": "2026-09-11T02:01:10+00:00",
+    "end_time_utc": "2026-09-11T02:20:02+00:00",
     "targets": {
       "VSPhone": "https://cloud.vsphone.com/buy",
       "Redfinger": "https://www.cloudemulator.net/app/buy?utm_source=buying-guide&utm_medium=btn&utm_campaign=buy-btn&channelCode=web",
@@ -86,7 +86,7 @@
     "blocked_pages": {},
     "failed_pages": {},
     "warnings": [],
-    "api_candidate_count": 153,
+    "api_candidate_count": 156,
     "platform_persistent_profiles": {
       "UgPhone": "output\\auth\\ugphone_profile"
     },
@@ -132,7 +132,7 @@
     },
     "quality_price_monitor": {
       "enabled": true,
-      "report_path": "output\\cloud_phone_monitor_20260910_020058\\quality_price_report.xlsx",
+      "report_path": "output\\cloud_phone_monitor_20260911_020110\\quality_price_report.xlsx",
       "ug_config_count": 20,
       "pairing_rows": 225,
       "quality_adjusted_rows": 225,
@@ -144,15 +144,15 @@
     "baseline_monitor": {
       "baseline_found": false,
       "baseline_path": "baselines\\products_baseline.xlsx",
-      "daily_changes_path": "output\\cloud_phone_monitor_20260910_020058\\daily_changes.xlsx",
-      "current_products": 383
+      "daily_changes_path": "output\\cloud_phone_monitor_20260911_020110\\daily_changes.xlsx",
+      "current_products": 385
     },
-    "total_records": 5108,
+    "total_records": 5110,
     "records_by_platform": {
       "VSPhone": 4058,
       "Redfinger": 358,
       "LDCloud": 550,
-      "UgPhone": 142
+      "UgPhone": 144
     },
     "missing_field_stats": {
       "schema_version": 0,
@@ -176,20 +176,20 @@
       "storage": 4416,
       "price": 0,
       "original_price": 360,
-      "discount_price": 5108,
+      "discount_price": 5110,
       "billing_period": 0,
       "duration": 0,
       "purchase_mode": 908,
       "stock_status": 0,
       "promotion_text": 0,
-      "promotion_start_time": 5108,
-      "promotion_end_time": 5108,
+      "promotion_start_time": 5110,
+      "promotion_end_time": 5110,
       "raw_text": 0,
       "extraction_method": 0,
       "confidence": 0,
       "screenshot_path": 0,
       "html_path": 0,
-      "api_response_path": 142,
+      "api_response_path": 144,
       "notes": 0,
       "record_hash": 0
     }
