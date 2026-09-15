@@ -3,7 +3,7 @@
   "scheduler_type": "windows_task_scheduler",
   "schedule_time_local": "10:00",
   "last_run_time": "2026-09-15T04:14:10+00:00",
-  "last_run_status": "running",
+  "last_run_status": "success",
   "next_run_time_estimated": "2026-09-16T10:00:00+08:00",
   "last_run_duration_seconds": 1349,
   "data_freshness_status": "fresh",

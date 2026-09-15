@@ -5,18 +5,18 @@
   "price_trends_file": "price_trends.json.gz",
   "detail_chunk_dir": "price_trends_chunks",
   "compressed_asset_count": 14,
-  "raw_history_bytes": 65684232,
-  "stored_history_bytes": 945142,
-  "saved_bytes": 64739090,
+  "raw_history_bytes": 65684302,
+  "stored_history_bytes": 945140,
+  "saved_bytes": 64739162,
   "space_saving_pct": 98.56,
   "assets": [
     {
       "file": "price_trends.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 3539617,
-      "stored_bytes": 70343,
-      "saved_bytes": 3469274,
-      "compression_ratio": 0.019873
+      "raw_bytes": 3539687,
+      "stored_bytes": 70341,
+      "saved_bytes": 3469346,
+      "compression_ratio": 0.019872
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0001.json.gz",

@@ -6,11 +6,11 @@
     "historical": "historical_real_observations_plus_explicit_carry_forward",
     "baseline": "reference_only_never_current"
   },
-  "history_cache_mode": "incremental",
+  "history_cache_mode": "full",
   "is_mock_data": false,
   "source": "dashboard_export",
   "source_output_dir": "output\\latest",
-  "generated_at_utc": "2026-09-15T04:14:45+00:00",
+  "generated_at_utc": "2026-09-15T06:24:18+00:00",
   "last_run_at_utc": "2026-09-15T04:14:10+00:00",
   "last_run_date": "2026-09-15",
   "safe_data_only": true,

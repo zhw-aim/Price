@@ -2,7 +2,7 @@
   "schema_version": 9,
   "skill_release": "current",
   "dataset_role": "current",
-  "generated_at_utc": "2026-09-15T04:14:45+00:00",
+  "generated_at_utc": "2026-09-15T06:24:18+00:00",
   "source_output_dir": "output\\latest",
   "source_file": "products.csv",
   "collection_date": "2026-09-15",
