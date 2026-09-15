@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-11T02:20:35+00:00",
+  "generated_at_utc": "2026-09-15T03:18:38+00:00",
   "platform_diagnostics": [
     {
       "platform": "UgPhone",
@@ -8,8 +8,8 @@
       "login_status": "unknown",
       "login_check_method": "manual_check",
       "login_error_message": "",
-      "collection_status": "success",
-      "collection_health": "ok",
+      "collection_status": "warning",
+      "collection_health": "warning",
       "baseline_coverage_status": "unknown",
       "baseline_coverage_ratio": null,
       "fallback_to_baseline": false,
