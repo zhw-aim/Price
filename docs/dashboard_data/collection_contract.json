@@ -1,41 +1,41 @@
 {
   "schema_version": 9,
   "skill_release": "current",
-  "generated_at_utc": "2026-09-11T02:20:06+00:00",
-  "overall_coverage_ratio": 0.3469,
+  "generated_at_utc": "2026-09-15T04:14:13+00:00",
+  "overall_coverage_ratio": 0.5455,
   "overall_status": "warning",
   "platforms": [
     {
       "platform": "UgPhone",
       "status": "warning",
-      "coverage_ratio": 0.3469,
-      "current_rows": 62,
-      "priced_rows": 62,
+      "coverage_ratio": 0.5455,
+      "current_rows": 90,
+      "priced_rows": 90,
       "baseline_reference_rows": 0,
       "baseline_row_delta": null,
       "contract_components": [
         {
           "name": "plans",
-          "successes": 4,
+          "successes": 3,
           "targets": 5,
-          "coverage_ratio": 0.8
+          "coverage_ratio": 0.6
         },
         {
           "name": "variants",
-          "successes": 4,
-          "targets": 10,
-          "coverage_ratio": 0.4
+          "successes": 6,
+          "targets": 11,
+          "coverage_ratio": 0.5455
         },
         {
           "name": "regions",
-          "successes": 17,
-          "targets": 49,
-          "coverage_ratio": 0.3469
+          "successes": 29,
+          "targets": 50,
+          "coverage_ratio": 0.58
         },
         {
           "name": "purchase_mode_pairs",
-          "successes": 12,
-          "targets": 12,
+          "successes": 22,
+          "targets": 22,
           "coverage_ratio": 1.0
         }
       ],
@@ -123,36 +123,6 @@
         {
           "plan": "GVIP",
           "version": "android12.0",
-          "region": "America",
-          "reason": "region_state_not_confirmed_after_sync"
-        },
-        {
-          "plan": "GVIP",
-          "version": "android12.0",
-          "region": "Germany",
-          "reason": "region_state_not_confirmed_after_sync"
-        },
-        {
-          "plan": "GVIP",
-          "version": "android12.0",
-          "region": "Japan",
-          "reason": "region_state_not_confirmed_after_sync"
-        },
-        {
-          "plan": "GVIP",
-          "version": "android12.0",
-          "region": "Hong Kong",
-          "reason": "region_state_not_confirmed_after_sync"
-        },
-        {
-          "plan": "GVIP",
-          "version": "android12.0",
-          "region": "Singapore",
-          "reason": "region_state_not_confirmed_after_sync"
-        },
-        {
-          "plan": "GVIP",
-          "version": "android12.0",
           "region": "Thailand",
           "reason": "region_click_failed"
         },
@@ -164,17 +134,6 @@
         },
         {
           "plan": "GVIP",
-          "version": "android12.0",
-          "reason": "no_region_snapshot_captured"
-        },
-        {
-          "plan": "GVIP",
-          "version": "android13.0",
-          "region": "Germany",
-          "reason": "region_state_not_confirmed_after_sync"
-        },
-        {
-          "plan": "GVIP",
           "version": "android13.0",
           "region": "Japan",
           "reason": "region_click_failed"
@@ -182,13 +141,13 @@
         {
           "plan": "GVIP",
           "version": "android13.0",
-          "region": "Hong Kong",
+          "region": "Singapore",
           "reason": "region_click_failed"
         },
         {
           "plan": "GVIP",
           "version": "android13.0",
-          "region": "Singapore",
+          "region": "Germany",
           "reason": "region_click_failed"
         },
         {
@@ -198,39 +157,10 @@
           "reason": "region_click_failed"
         },
         {
-          "plan": "GVIP",
-          "version": "android13.0",
-          "reason": "no_region_snapshot_captured"
-        },
-        {
           "plan": "🔥KVIP",
           "version": "android12.0",
           "region": "Germany",
-          "reason": "region_state_not_confirmed_after_sync"
-        },
-        {
-          "plan": "🔥KVIP",
-          "version": "android12.0",
-          "region": "Japan",
-          "reason": "region_state_not_confirmed_after_sync"
-        },
-        {
-          "plan": "🔥KVIP",
-          "version": "android12.0",
-          "region": "Korea",
-          "reason": "region_state_not_confirmed_after_sync"
-        },
-        {
-          "plan": "🔥KVIP",
-          "version": "android12.0",
-          "region": "Hong Kong",
-          "reason": "region_state_not_confirmed_after_sync"
-        },
-        {
-          "plan": "🔥KVIP",
-          "version": "android12.0",
-          "region": "Singapore",
-          "reason": "region_state_not_confirmed_after_sync"
+          "reason": "region_click_failed"
         },
         {
           "plan": "🔥KVIP",
@@ -240,25 +170,14 @@
         },
         {
           "plan": "🔥KVIP",
-          "version": "android12.0",
-          "region": "Taiwan",
-          "reason": "region_click_failed"
-        },
-        {
-          "plan": "🔥KVIP",
-          "version": "android12.0",
-          "reason": "no_region_snapshot_captured"
-        },
-        {
-          "plan": "🔥KVIP",
           "version": "android13.0",
-          "region": "Japan",
+          "region": "Korea",
           "reason": "region_state_not_confirmed_after_sync"
         },
         {
           "plan": "🔥KVIP",
           "version": "android13.0",
-          "region": "Korea",
+          "region": "Taiwan",
           "reason": "region_click_failed"
         },
         {
@@ -270,13 +189,13 @@
         {
           "plan": "🔥KVIP",
           "version": "android13.0",
-          "region": "Singapore",
+          "region": "Japan",
           "reason": "region_click_failed"
         },
         {
           "plan": "🔥KVIP",
           "version": "android13.0",
-          "region": "Taiwan",
+          "region": "Singapore",
           "reason": "region_click_failed"
         },
         {
@@ -312,14 +231,8 @@
         {
           "plan": "🔥MVIP",
           "version": "android13.0",
-          "region": "America",
+          "region": "Taiwan",
           "reason": "region_state_not_confirmed_after_sync"
-        },
-        {
-          "plan": "🔥MVIP",
-          "version": "android13.0",
-          "region": "Germany",
-          "reason": "region_click_failed"
         },
         {
           "plan": "🔥MVIP",
@@ -330,13 +243,13 @@
         {
           "plan": "🔥MVIP",
           "version": "android13.0",
-          "region": "Taiwan",
+          "region": "Singapore",
           "reason": "region_click_failed"
         },
         {
           "plan": "🔥MVIP",
           "version": "android13.0",
-          "region": "Singapore",
+          "region": "Germany",
           "reason": "region_click_failed"
         },
         {
@@ -360,23 +273,83 @@
         {
           "plan": "🔥MVIP",
           "version": "android13.0",
+          "region": "America",
+          "reason": "region_click_failed"
+        },
+        {
+          "plan": "🔥MVIP",
+          "version": "android13.0",
+          "reason": "no_region_snapshot_captured"
+        },
+        {
+          "plan": "🔥MVIP",
+          "version": "android12.0",
+          "region": "Hong Kong",
+          "purchase_mode": "subscription",
+          "reason": "price_cards_missing_after_purchase_mode_sync"
+        },
+        {
+          "plan": "🔥MVIP",
+          "version": "android12.0",
+          "region": "Hong Kong",
+          "purchase_mode": "non_subscription",
+          "reason": "price_cards_missing_after_purchase_mode_sync"
+        },
+        {
+          "plan": "🔥MVIP",
+          "version": "android12.0",
+          "region": "Hong Kong",
+          "reason": "price_cards_missing_after_full_selection"
+        },
+        {
+          "plan": "🔥MVIP",
+          "version": "android12.0",
           "reason": "no_region_snapshot_captured"
         },
         {
           "plan": "🔥MVIP",
           "reason": "no_variant_snapshot_captured"
+        },
+        {
+          "plan": "SVIP",
+          "version": null,
+          "region": "Korea",
+          "purchase_mode": "subscription",
+          "reason": "price_cards_missing_after_purchase_mode_sync"
+        },
+        {
+          "plan": "SVIP",
+          "version": null,
+          "region": "Korea",
+          "purchase_mode": "non_subscription",
+          "reason": "price_cards_missing_after_purchase_mode_sync"
+        },
+        {
+          "plan": "SVIP",
+          "version": "android10.0",
+          "region": "Korea",
+          "reason": "price_cards_missing_after_full_selection"
+        },
+        {
+          "plan": "SVIP",
+          "version": "android10.0",
+          "reason": "no_region_snapshot_captured"
+        },
+        {
+          "plan": "SVIP",
+          "reason": "no_variant_snapshot_captured"
         }
       ],
       "collector_status": "warning",
       "collector_coverage_status": "partial",
-      "collector_coverage_note": "partial_visible_matrix_returned; plans=4/5; variants=4/10; priced_regions=24/49; resolved_regions=17/49; priced_rows=144"
+      "collector_coverage_note": "partial_visible_matrix_returned; plans=3/5; variants=6/11; priced_regions=44/50; resolved_regions=29/50; priced_rows=264"
     },
     {
       "platform": "VSPhone",
       "status": "ok",
       "coverage_ratio": 1.0,
-      "current_rows": 340,
-      "priced_rows": 340,
+      "current_rows": 338,
+      "priced_rows": 338,
       "baseline_reference_rows": 0,
       "baseline_row_delta": null,
       "contract_components": [
@@ -408,13 +381,13 @@
       "platform": "Redfinger",
       "status": "ok",
       "coverage_ratio": 1.0,
-      "current_rows": 79,
-      "priced_rows": 79,
+      "current_rows": 52,
+      "priced_rows": 52,
       "baseline_reference_rows": 0,
       "baseline_row_delta": null,
       "contract_components": [],
       "missing_cells": [],
-      "collector_status": "ok",
+      "collector_status": "warning",
       "collector_coverage_status": null,
       "collector_coverage_note": null
     },
@@ -422,8 +395,8 @@
       "platform": "LDCloud",
       "status": "ok",
       "coverage_ratio": 1.0,
-      "current_rows": 295,
-      "priced_rows": 295,
+      "current_rows": 276,
+      "priced_rows": 276,
       "baseline_reference_rows": 0,
       "baseline_row_delta": null,
       "contract_components": [],

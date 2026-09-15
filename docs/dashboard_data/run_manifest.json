@@ -1,21 +1,21 @@
 {
   "skill_release": "current",
   "schema_version": 9,
-  "generated_at_utc": "2026-09-11T02:20:11+00:00",
-  "run_id": "cloud_phone_monitor_20260911_020110",
-  "source_output_dir": "output\\cloud_phone_monitor_20260911_020110",
+  "generated_at_utc": "2026-09-15T04:14:18+00:00",
+  "run_id": "cloud_phone_monitor_20260915_035141",
+  "source_output_dir": "output\\cloud_phone_monitor_20260915_035141",
   "git_commit": null,
-  "start_time_utc": "2026-09-11T02:01:10+00:00",
-  "end_time_utc": "2026-09-11T02:20:02+00:00",
+  "start_time_utc": "2026-09-15T03:51:41+00:00",
+  "end_time_utc": "2026-09-15T04:14:10+00:00",
   "records_by_platform": {
-    "VSPhone": 4058,
-    "Redfinger": 358,
-    "LDCloud": 550,
-    "UgPhone": 144
+    "VSPhone": 4056,
+    "Redfinger": 229,
+    "LDCloud": 560,
+    "UgPhone": 264
   },
   "collection_contract": {
     "overall_status": "warning",
-    "overall_coverage_ratio": 0.3469
+    "overall_coverage_ratio": 0.5455
   },
   "data_roles": {
     "current": "products.csv/products.xlsx from this run only",
