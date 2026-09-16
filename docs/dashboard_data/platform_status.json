@@ -41,9 +41,9 @@
     "collection_status": "ok",
     "baseline_coverage_status": "unknown",
     "baseline_coverage_ratio": null,
-    "raw_records": 560,
-    "product_rows": 276,
-    "priced_product_rows": 276,
+    "raw_records": 648,
+    "product_rows": 319,
+    "priced_product_rows": 319,
     "baseline_rows": 0,
     "missing_vs_baseline": 0
   }

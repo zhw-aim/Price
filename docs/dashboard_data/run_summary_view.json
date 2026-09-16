@@ -1,10 +1,10 @@
 {
-  "start_time_utc": "2026-09-15T03:51:41+00:00",
-  "end_time_utc": "2026-09-15T04:14:10+00:00",
+  "start_time_utc": "2026-09-16T02:00:41+00:00",
+  "end_time_utc": "2026-09-16T02:23:01+00:00",
   "records_by_platform": {
     "VSPhone": 4056,
     "Redfinger": 229,
-    "LDCloud": 560,
+    "LDCloud": 648,
     "UgPhone": 264
   },
   "blocked_pages": {},
@@ -13,18 +13,18 @@
   "baseline_monitor": {
     "baseline_found": false,
     "baseline_path": "baselines\\products_baseline.xlsx",
-    "daily_changes_path": "output\\cloud_phone_monitor_20260915_035141\\daily_changes.xlsx",
-    "current_products": 388
+    "daily_changes_path": "output\\cloud_phone_monitor_20260916_020041\\daily_changes.xlsx",
+    "current_products": 404
   },
   "quality_price_monitor": {
     "enabled": true,
-    "report_path": "output\\cloud_phone_monitor_20260915_035141\\quality_price_report.xlsx",
+    "report_path": "output\\cloud_phone_monitor_20260916_020041\\quality_price_report.xlsx",
     "ug_config_count": 30,
     "pairing_rows": 315,
     "quality_adjusted_rows": 315,
     "relative_index_rows": 30,
-    "critical_alerts": 1,
-    "warning_alerts": 2,
+    "critical_alerts": 0,
+    "warning_alerts": 1,
     "not_comparable_rows": 155
   },
   "missing_field_stats": {
@@ -49,14 +49,14 @@
     "storage": 4285,
     "price": 0,
     "original_price": 720,
-    "discount_price": 5109,
+    "discount_price": 5197,
     "billing_period": 0,
     "duration": 0,
-    "purchase_mode": 789,
+    "purchase_mode": 877,
     "stock_status": 0,
     "promotion_text": 0,
-    "promotion_start_time": 5109,
-    "promotion_end_time": 5109,
+    "promotion_start_time": 5197,
+    "promotion_end_time": 5197,
     "raw_text": 0,
     "extraction_method": 0,
     "confidence": 0,

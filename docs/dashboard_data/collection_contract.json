@@ -1,7 +1,7 @@
 {
   "schema_version": 9,
   "skill_release": "current",
-  "generated_at_utc": "2026-09-15T04:14:13+00:00",
+  "generated_at_utc": "2026-09-16T02:23:03+00:00",
   "overall_coverage_ratio": 0.5455,
   "overall_status": "warning",
   "platforms": [
@@ -255,6 +255,12 @@
         {
           "plan": "🔥MVIP",
           "version": "android13.0",
+          "region": "America",
+          "reason": "region_click_failed"
+        },
+        {
+          "plan": "🔥MVIP",
+          "version": "android13.0",
           "region": "Hong Kong",
           "reason": "region_click_failed"
         },
@@ -268,12 +274,6 @@
           "plan": "🔥MVIP",
           "version": "android13.0",
           "region": "Indonesia",
-          "reason": "region_click_failed"
-        },
-        {
-          "plan": "🔥MVIP",
-          "version": "android13.0",
-          "region": "America",
           "reason": "region_click_failed"
         },
         {
@@ -395,8 +395,8 @@
       "platform": "LDCloud",
       "status": "ok",
       "coverage_ratio": 1.0,
-      "current_rows": 276,
-      "priced_rows": 276,
+      "current_rows": 319,
+      "priced_rows": 319,
       "baseline_reference_rows": 0,
       "baseline_row_delta": null,
       "contract_components": [],

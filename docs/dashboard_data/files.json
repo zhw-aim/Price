@@ -3,28 +3,28 @@
     "name": "products.csv",
     "path": "output\\latest\\products.csv",
     "exists": true,
-    "size_bytes": 4977975,
+    "size_bytes": 5163461,
     "safe_to_open": true
   },
   {
     "name": "products.xlsx",
     "path": "output\\latest\\products.xlsx",
     "exists": true,
-    "size_bytes": 229036,
+    "size_bytes": 240302,
     "safe_to_open": true
   },
   {
     "name": "products.jsonl",
     "path": "output\\latest\\products.jsonl",
     "exists": true,
-    "size_bytes": 29132737,
+    "size_bytes": 29417514,
     "safe_to_open": true
   },
   {
     "name": "daily_changes.xlsx",
     "path": "output\\latest\\daily_changes.xlsx",
     "exists": true,
-    "size_bytes": 39559,
+    "size_bytes": 39336,
     "safe_to_open": true
   },
   {
@@ -38,7 +38,7 @@
     "name": "quality_price_report.xlsx",
     "path": "output\\latest\\quality_price_report.xlsx",
     "exists": true,
-    "size_bytes": 73804,
+    "size_bytes": 73673,
     "safe_to_open": true
   },
   {
@@ -73,7 +73,7 @@
     "name": "dashboard_data/frontend_price_overview.json",
     "path": "output\\latest\\dashboard_data\\frontend_price_overview.json",
     "exists": true,
-    "size_bytes": 12643,
+    "size_bytes": 8518,
     "safe_to_open": true
   },
   {
@@ -87,14 +87,14 @@
     "name": "dashboard_data/duration_price_comparison.json",
     "path": "output\\latest\\dashboard_data\\duration_price_comparison.json",
     "exists": true,
-    "size_bytes": 124848,
+    "size_bytes": 124206,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/price_trends.json.gz",
     "path": "output\\latest\\dashboard_data\\price_trends.json.gz",
     "exists": true,
-    "size_bytes": 70343,
+    "size_bytes": 74486,
     "safe_to_open": true
   },
   {
@@ -136,7 +136,7 @@
     "name": "dashboard_data/current_price_snapshot.json",
     "path": "output\\latest\\dashboard_data\\current_price_snapshot.json",
     "exists": true,
-    "size_bytes": 598448,
+    "size_bytes": 633423,
     "safe_to_open": true
   },
   {
@@ -157,7 +157,7 @@
     "name": "dashboard_data/history_storage.json",
     "path": "output\\latest\\dashboard_data\\history_storage.json",
     "exists": true,
-    "size_bytes": 4071,
+    "size_bytes": 4315,
     "safe_to_open": true
   }
 ]

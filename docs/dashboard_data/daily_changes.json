@@ -12,7 +12,7 @@
       {
         "status": "baseline_missing",
         "baseline_path": "baselines\\products_baseline.xlsx",
-        "current_products": 388,
+        "current_products": 404,
         "message": "Create a baseline with --init-baseline or place products.xlsx at the baseline path."
       }
     ]

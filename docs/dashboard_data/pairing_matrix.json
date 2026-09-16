@@ -254,7 +254,7 @@
         "competitor_platform": "LDCloud",
         "competitor_product_model": "KVIP",
         "competitor_config": "KVIP / Android 12 / 4 cores / 5.3GB / 64GB",
-        "config_similarity_score": 82,
+        "config_similarity_score": 84,
         "comparability_level": "adjusted_match",
         "pairing_source": "manual_mapping",
         "pairing_notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_same; cpu_competitor_lower; ram_same; storage_same; region_overlap; duration_same",
