@@ -1,16 +1,16 @@
 {
   "schema_version": 9,
   "skill_release": "current",
-  "generated_at_utc": "2026-09-16T02:23:03+00:00",
-  "overall_coverage_ratio": 0.5455,
+  "generated_at_utc": "2026-09-17T02:53:58+00:00",
+  "overall_coverage_ratio": 0.52,
   "overall_status": "warning",
   "platforms": [
     {
       "platform": "UgPhone",
       "status": "warning",
-      "coverage_ratio": 0.5455,
-      "current_rows": 90,
-      "priced_rows": 90,
+      "coverage_ratio": 0.52,
+      "current_rows": 85,
+      "priced_rows": 85,
       "baseline_reference_rows": 0,
       "baseline_row_delta": null,
       "contract_components": [
@@ -28,14 +28,14 @@
         },
         {
           "name": "regions",
-          "successes": 29,
+          "successes": 26,
           "targets": 50,
-          "coverage_ratio": 0.58
+          "coverage_ratio": 0.52
         },
         {
           "name": "purchase_mode_pairs",
-          "successes": 22,
-          "targets": 22,
+          "successes": 18,
+          "targets": 18,
           "coverage_ratio": 1.0
         }
       ],
@@ -123,6 +123,44 @@
         {
           "plan": "GVIP",
           "version": "android12.0",
+          "region": "Japan",
+          "reason": "region_state_not_confirmed_after_sync"
+        },
+        {
+          "plan": "GVIP",
+          "version": "android12.0",
+          "region": "Singapore",
+          "reason": "region_state_not_confirmed_after_sync"
+        },
+        {
+          "plan": "GVIP",
+          "version": "android12.0",
+          "region": "Germany",
+          "reason": "region_state_not_confirmed_after_sync"
+        },
+        {
+          "plan": "GVIP",
+          "version": "android12.0",
+          "region": "America",
+          "purchase_mode": "subscription",
+          "reason": "subscription_control_missing_after_retry"
+        },
+        {
+          "plan": "GVIP",
+          "version": "android12.0",
+          "region": "America",
+          "purchase_mode": "non_subscription",
+          "reason": "subscription_control_missing_after_retry"
+        },
+        {
+          "plan": "GVIP",
+          "version": "android12.0",
+          "region": "America",
+          "reason": "price_cards_missing_after_full_selection"
+        },
+        {
+          "plan": "GVIP",
+          "version": "android12.0",
           "region": "Thailand",
           "reason": "region_click_failed"
         },
@@ -135,12 +173,6 @@
         {
           "plan": "GVIP",
           "version": "android13.0",
-          "region": "Japan",
-          "reason": "region_click_failed"
-        },
-        {
-          "plan": "GVIP",
-          "version": "android13.0",
           "region": "Singapore",
           "reason": "region_click_failed"
         },
@@ -148,6 +180,12 @@
           "plan": "GVIP",
           "version": "android13.0",
           "region": "Germany",
+          "reason": "region_click_failed"
+        },
+        {
+          "plan": "GVIP",
+          "version": "android13.0",
+          "region": "Japan",
           "reason": "region_click_failed"
         },
         {
@@ -255,12 +293,6 @@
         {
           "plan": "🔥MVIP",
           "version": "android13.0",
-          "region": "America",
-          "reason": "region_click_failed"
-        },
-        {
-          "plan": "🔥MVIP",
-          "version": "android13.0",
           "region": "Hong Kong",
           "reason": "region_click_failed"
         },
@@ -274,6 +306,12 @@
           "plan": "🔥MVIP",
           "version": "android13.0",
           "region": "Indonesia",
+          "reason": "region_click_failed"
+        },
+        {
+          "plan": "🔥MVIP",
+          "version": "android13.0",
+          "region": "America",
           "reason": "region_click_failed"
         },
         {
@@ -342,7 +380,7 @@
       ],
       "collector_status": "warning",
       "collector_coverage_status": "partial",
-      "collector_coverage_note": "partial_visible_matrix_returned; plans=3/5; variants=6/11; priced_regions=44/50; resolved_regions=29/50; priced_rows=264"
+      "collector_coverage_note": "partial_visible_matrix_returned; plans=3/5; variants=6/11; priced_regions=36/50; resolved_regions=26/50; priced_rows=216"
     },
     {
       "platform": "VSPhone",
@@ -395,8 +433,8 @@
       "platform": "LDCloud",
       "status": "ok",
       "coverage_ratio": 1.0,
-      "current_rows": 319,
-      "priced_rows": 319,
+      "current_rows": 330,
+      "priced_rows": 330,
       "baseline_reference_rows": 0,
       "baseline_row_delta": null,
       "contract_components": [],

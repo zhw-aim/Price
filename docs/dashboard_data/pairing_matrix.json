@@ -100,7 +100,7 @@
         "competitor_platform": "VSPhone",
         "competitor_product_model": "VIP",
         "competitor_config": "VIP / Android 13 / - / - / -",
-        "config_similarity_score": 51,
+        "config_similarity_score": 53,
         "comparability_level": "not_comparable",
         "pairing_source": "manual_mapping",
         "pairing_notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same",
@@ -122,10 +122,10 @@
         "competitor_platform": "LDCloud",
         "competitor_product_model": "KVIP",
         "competitor_config": "KVIP / Android 12 / 4 cores / 5.3GB / 64GB",
-        "config_similarity_score": 87.12,
+        "config_similarity_score": 85.12,
         "comparability_level": "adjusted_match",
         "pairing_source": "manual_mapping",
-        "pairing_notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_overlap; duration_same",
+        "pairing_notes": "手工推荐: KVIP10/KVIP12 / 4C / 5.3GB / 64GB，优先配对。; android_same; cpu_same; ram_competitor_higher; storage_same; region_no_overlap; duration_same",
         "included_in_core_median": true,
         "exclusion_reason": ""
       }
