@@ -101,7 +101,7 @@
         "UgPhone套餐型号": "UVIP",
         "UgPhone最低价": 1.19,
         "UgPhone价格范围": "1.19",
-        "UgPhone服务器地区": "Hong Kong; Singapore; Germany; America; Japan",
+        "UgPhone服务器地区": "Hong Kong; Japan; Singapore; Germany; America",
         "UgPhone活动文案": "25% off for a limited time",
         "UgPhone匹配行数": 2,
         "VSPhone套餐型号": null,
@@ -210,7 +210,7 @@
         "UgPhone最低价": 6.99,
         "UgPhone价格范围": "6.99 - 9.99",
         "UgPhone服务器地区": "Hong Kong; Japan; Singapore; Germany; America",
-        "UgPhone活动文案": "🔥Auto-Renew Deal; 50% OFF For New User; 25% off for a limited time",
+        "UgPhone活动文案": "🔥Auto-Renew Deal; 25% off for a limited time; 50% OFF For New User",
         "UgPhone匹配行数": 3,
         "VSPhone套餐型号": null,
         "VSPhone最低价": null,
@@ -318,7 +318,7 @@
         "可比性等级": "not_comparable",
         "配对来源": "manual_mapping",
         "活动文案": "限时特惠",
-        "支持服务器地区": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+        "支持服务器地区": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
         "备注": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=Basic; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; api_currentPrice=199; api_goodPrice=110; device_count_defaulted_to_1"
       },
       {
@@ -339,7 +339,7 @@
         "可比性等级": "not_comparable",
         "配对来源": "manual_mapping",
         "活动文案": "限时特惠",
-        "支持服务器地区": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+        "支持服务器地区": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
         "备注": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=Basic; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; api_currentPrice=199; api_goodPrice=110; device_count_defaulted_to_1"
       },
       {
@@ -360,7 +360,7 @@
         "可比性等级": "not_comparable",
         "配对来源": "manual_mapping",
         "活动文案": "限时特惠",
-        "支持服务器地区": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+        "支持服务器地区": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
         "备注": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=Basic; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; api_currentPrice=199; api_goodPrice=110; device_count_defaulted_to_1"
       },
       {

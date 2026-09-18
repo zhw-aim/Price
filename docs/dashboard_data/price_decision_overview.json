@@ -600,7 +600,7 @@
     "market_position_label": "below_market",
     "price_rank": 1,
     "core_competitor_count": 1,
-    "weak_competitor_count": 1,
+    "weak_competitor_count": 2,
     "pairing_coverage_score": 33.333333,
     "confidence_level": "medium",
     "confidence_notes": "one core competitor platform",
@@ -620,7 +620,7 @@
       "product_model": "KVIP",
       "config": "KVIP / Android 12 / 4 cores / 5.3GB / 64GB",
       "quality_adjusted_price_30d": 33.356647,
-      "comparability_level": "adjusted_match"
+      "comparability_level": "weak_match"
     }
   },
   {

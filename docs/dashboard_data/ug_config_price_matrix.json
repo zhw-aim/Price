@@ -313,7 +313,7 @@
     "adjusted_gap_pct": -0.221929,
     "market_position_label": "below_market",
     "core_matches": 1,
-    "weak_matches": 1,
+    "weak_matches": 2,
     "confidence_level": "medium",
     "alert_level": "none",
     "reason_code": "unchanged",

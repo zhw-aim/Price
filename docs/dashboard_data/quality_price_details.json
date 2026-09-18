@@ -25,7 +25,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=Basic; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; api_currentPrice=199; api_goodPrice=110; device_count_defaulted_to_1",
     "ug_config_id": "uvip___android_10___3_cores___3gb___30gb__7d"
   },
@@ -55,7 +55,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=Basic; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; api_currentPrice=199; api_goodPrice=110; device_count_defaulted_to_1",
     "ug_config_id": "uvip___android_10___3_cores___3gb___30gb__7d"
   },
@@ -85,7 +85,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=Basic; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; api_currentPrice=199; api_goodPrice=110; device_count_defaulted_to_1",
     "ug_config_id": "uvip___android_10___3_cores___3gb___30gb__7d"
   },
@@ -265,8 +265,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "8 days; 日常价",
-    "supported_server_regions": "Singapore; United States",
-    "notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_diff_within_15pct; api_price_list; area_code=sg; cardType=74; productId=5511; area_code=us; device_count_defaulted_to_1; dashboard_current_products_overlay_applied",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_diff_within_15pct; api_price_list; area_code=tw; cardType=74; productId=5511; area_code=sg; area_code=us; device_count_defaulted_to_1; dashboard_current_products_overlay_applied",
     "ug_config_id": "uvip___android_10___3_cores___3gb___30gb__7d"
   },
   {
@@ -295,7 +295,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=Basic; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "uvip___android_10___3_cores___3gb___30gb__30d"
   },
@@ -325,7 +325,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=Basic; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "uvip___android_10___3_cores___3gb___30gb__30d"
   },
@@ -355,7 +355,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=Basic; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "uvip___android_10___3_cores___3gb___30gb__30d"
   },
@@ -565,7 +565,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=Basic; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "uvip___android_10___3_cores___3gb___30gb__90d"
   },
@@ -595,7 +595,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=Basic; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "uvip___android_10___3_cores___3gb___30gb__90d"
   },
@@ -625,7 +625,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=Basic; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "uvip___android_10___3_cores___3gb___30gb__90d"
   },
@@ -805,8 +805,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "90 days; 日常价",
-    "supported_server_regions": "Singapore; United States",
-    "notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=sg; cardType=74; productId=5546; area_code=us; device_count_defaulted_to_1; dashboard_current_products_overlay_applied",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=74; productId=5546; area_code=sg; area_code=us; device_count_defaulted_to_1; dashboard_current_products_overlay_applied",
     "ug_config_id": "uvip___android_10___3_cores___3gb___30gb__90d"
   },
   {
@@ -835,7 +835,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_diff_over_30pct; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=Basic; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "uvip___android_10___3_cores___3gb___30gb__180d"
   },
@@ -865,7 +865,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_diff_over_30pct; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=Basic; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "uvip___android_10___3_cores___3gb___30gb__180d"
   },
@@ -895,7 +895,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_diff_over_30pct; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=Basic; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; api_currentPrice=199; api_goodPrice=110; device_count_defaulted_to_1",
     "ug_config_id": "uvip___android_10___3_cores___3gb___30gb__180d"
   },
@@ -1075,8 +1075,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "180 days; 日常价",
-    "supported_server_regions": "Singapore; United States",
-    "notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=sg; cardType=74; productId=5551; area_code=us; device_count_defaulted_to_1; dashboard_current_products_overlay_applied",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=74; productId=5551; area_code=sg; area_code=us; device_count_defaulted_to_1; dashboard_current_products_overlay_applied",
     "ug_config_id": "uvip___android_10___3_cores___3gb___30gb__180d"
   },
   {
@@ -1105,7 +1105,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=Basic; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "uvip___android_10___3_cores___3gb___30gb__365d"
   },
@@ -1135,7 +1135,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=Basic; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "uvip___android_10___3_cores___3gb___30gb__365d"
   },
@@ -1165,7 +1165,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=Basic; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "uvip___android_10___3_cores___3gb___30gb__365d"
   },
@@ -1345,8 +1345,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "365 days; Best Value!; 日常价",
-    "supported_server_regions": "Singapore; United States",
-    "notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=sg; cardType=74; productId=5559; area_code=us; device_count_defaulted_to_1; dashboard_current_products_overlay_applied",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_price_list; area_code=tw; cardType=74; productId=5559; area_code=sg; area_code=us; device_count_defaulted_to_1; dashboard_current_products_overlay_applied",
     "ug_config_id": "uvip___android_10___3_cores___3gb___30gb__365d"
   },
   {
@@ -1375,7 +1375,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=Basic; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; api_currentPrice=199; api_goodPrice=110; device_count_defaulted_to_1",
     "ug_config_id": "uvip___android_10___3_cores___3gb___30gb__7d"
   },
@@ -1405,7 +1405,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=Basic; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; api_currentPrice=199; api_goodPrice=110; device_count_defaulted_to_1",
     "ug_config_id": "uvip___android_10___3_cores___3gb___30gb__7d"
   },
@@ -1435,7 +1435,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=Basic; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; api_currentPrice=199; api_goodPrice=110; device_count_defaulted_to_1",
     "ug_config_id": "uvip___android_10___3_cores___3gb___30gb__7d"
   },
@@ -1615,8 +1615,8 @@
     "comparability_level": "weak_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "8 days; 日常价",
-    "supported_server_regions": "Taiwan; Netherlands",
-    "notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_higher; region_no_overlap; duration_diff_within_15pct; api_price_list; area_code=tw; cardType=74; sellout=true; productId=5511; area_code=nl; device_count_defaulted_to_1; dashboard_current_products_overlay_applied",
+    "supported_server_regions": "Taiwan; Singapore; United States",
+    "notes": "手工推荐: VIP10/VIP12 / 3C / 4GB / 45GB，作为 UG UVIP 最佳近似。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_higher; region_no_overlap; duration_diff_within_15pct; api_price_list; area_code=tw; cardType=74; productId=5511; area_code=sg; area_code=us; device_count_defaulted_to_1; dashboard_current_products_overlay_applied",
     "ug_config_id": "uvip___android_10___3_cores___3gb___30gb__7d"
   },
   {
@@ -1645,7 +1645,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__7d"
   },
@@ -1675,7 +1675,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__7d"
   },
@@ -1705,7 +1705,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__7d"
   },
@@ -1915,7 +1915,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__30d"
   },
@@ -1945,7 +1945,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__30d"
   },
@@ -1975,7 +1975,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__30d"
   },
@@ -2185,7 +2185,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__90d"
   },
@@ -2215,7 +2215,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__90d"
   },
@@ -2245,7 +2245,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__90d"
   },
@@ -2455,7 +2455,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_diff_over_30pct; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__180d"
   },
@@ -2485,7 +2485,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_diff_over_30pct; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__180d"
   },
@@ -2515,7 +2515,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_diff_over_30pct; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__180d"
   },
@@ -2725,7 +2725,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__365d"
   },
@@ -2755,7 +2755,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__365d"
   },
@@ -2785,7 +2785,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__365d"
   },
@@ -2995,7 +2995,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__30d"
   },
@@ -3025,7 +3025,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__30d"
   },
@@ -3055,7 +3055,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__30d"
   },
@@ -3265,7 +3265,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__90d"
   },
@@ -3295,7 +3295,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__90d"
   },
@@ -3325,7 +3325,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__90d"
   },
@@ -3535,7 +3535,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_diff_over_30pct; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__180d"
   },
@@ -3565,7 +3565,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_diff_over_30pct; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__180d"
   },
@@ -3595,7 +3595,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_diff_over_30pct; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__180d"
   },
@@ -3805,7 +3805,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__365d"
   },
@@ -3835,7 +3835,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__365d"
   },
@@ -3865,7 +3865,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__365d"
   },
@@ -4075,7 +4075,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__7d"
   },
@@ -4105,7 +4105,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__7d"
   },
@@ -4135,7 +4135,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__7d"
   },
@@ -4345,7 +4345,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__30d"
   },
@@ -4375,7 +4375,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__30d"
   },
@@ -4405,7 +4405,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__30d"
   },
@@ -4615,7 +4615,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__90d"
   },
@@ -4645,7 +4645,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__90d"
   },
@@ -4675,7 +4675,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__90d"
   },
@@ -4885,7 +4885,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_diff_over_30pct; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__180d"
   },
@@ -4915,7 +4915,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_diff_over_30pct; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__180d"
   },
@@ -4945,7 +4945,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_diff_over_30pct; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__180d"
   },
@@ -5155,7 +5155,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__365d"
   },
@@ -5185,7 +5185,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__365d"
   },
@@ -5215,7 +5215,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_12___4_cores___4gb___64gb__365d"
   },
@@ -5425,7 +5425,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_13___4_cores___4gb___64gb__7d"
   },
@@ -5455,7 +5455,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_13___4_cores___4gb___64gb__7d"
   },
@@ -5485,7 +5485,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_13___4_cores___4gb___64gb__7d"
   },
@@ -5695,7 +5695,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_13___4_cores___4gb___64gb__30d"
   },
@@ -5725,7 +5725,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_13___4_cores___4gb___64gb__30d"
   },
@@ -5755,7 +5755,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_13___4_cores___4gb___64gb__30d"
   },
@@ -5965,7 +5965,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_13___4_cores___4gb___64gb__90d"
   },
@@ -5995,7 +5995,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_13___4_cores___4gb___64gb__90d"
   },
@@ -6025,7 +6025,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_13___4_cores___4gb___64gb__90d"
   },
@@ -6235,7 +6235,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_diff_over_30pct; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_13___4_cores___4gb___64gb__180d"
   },
@@ -6265,7 +6265,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_diff_over_30pct; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_13___4_cores___4gb___64gb__180d"
   },
@@ -6295,7 +6295,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_diff_over_30pct; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_13___4_cores___4gb___64gb__180d"
   },
@@ -6505,7 +6505,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_13___4_cores___4gb___64gb__365d"
   },
@@ -6535,7 +6535,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_13___4_cores___4gb___64gb__365d"
   },
@@ -6565,7 +6565,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "限时特惠",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: VIP；按当前业务口径，UgPhone GVIP 对标 VSPhone VIP，而不是 KVIP。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=VIP; purchase_mode=subscription; quantity=1; visible_duration_card_price; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "gvip___android_13___4_cores___4gb___64gb__365d"
   },
@@ -6775,7 +6775,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "75折",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=SVIP; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb__7d"
   },
@@ -6805,7 +6805,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "75折",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=SVIP; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb__7d"
   },
@@ -6835,7 +6835,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "75折",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=SVIP; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb__7d"
   },
@@ -6955,8 +6955,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "8 days; 日常价",
-    "supported_server_regions": "Singapore; Hong Kong",
-    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_diff_within_15pct; api_price_list; area_code=sg; cardType=19; sellout=true; productId=5512; area_code=hk; device_count_defaulted_to_1; dashboard_current_products_overlay_applied",
+    "supported_server_regions": "Singapore; Thailand; Hong Kong",
+    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_diff_within_15pct; api_price_list; area_code=sg; cardType=19; sellout=true; productId=5512; area_code=th; area_code=hk; device_count_defaulted_to_1; dashboard_current_products_overlay_applied",
     "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb__7d"
   },
   {
@@ -7045,7 +7045,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "75折",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=SVIP; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb__30d"
   },
@@ -7075,7 +7075,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "75折",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=SVIP; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb__30d"
   },
@@ -7105,7 +7105,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "75折",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=SVIP; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb__30d"
   },
@@ -7225,8 +7225,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "30 days; 日常价",
-    "supported_server_regions": "Singapore; Hong Kong",
-    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; sellout=true; productId=5529; area_code=hk; device_count_defaulted_to_1; dashboard_current_products_overlay_applied",
+    "supported_server_regions": "Singapore; Thailand; Hong Kong",
+    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; sellout=true; productId=5529; area_code=th; area_code=hk; device_count_defaulted_to_1; dashboard_current_products_overlay_applied",
     "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb__30d"
   },
   {
@@ -7255,8 +7255,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "30 days; New User Offer; 新用户特惠",
-    "supported_server_regions": "Singapore; Hong Kong",
-    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; sellout=true; productId=5822; area_code=hk; device_count_defaulted_to_1; dashboard_current_products_overlay_applied",
+    "supported_server_regions": "Singapore; Thailand; Hong Kong",
+    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; sellout=true; productId=5822; area_code=th; area_code=hk; device_count_defaulted_to_1; dashboard_current_products_overlay_applied",
     "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb__30d"
   },
   {
@@ -7315,7 +7315,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "75折",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=SVIP; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb__90d"
   },
@@ -7345,7 +7345,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "75折",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=SVIP; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb__90d"
   },
@@ -7375,7 +7375,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "75折",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=SVIP; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb__90d"
   },
@@ -7495,8 +7495,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "90 days; 日常价",
-    "supported_server_regions": "Singapore; Hong Kong",
-    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; sellout=true; productId=5545; area_code=hk; device_count_defaulted_to_1; dashboard_current_products_overlay_applied",
+    "supported_server_regions": "Singapore; Thailand; Hong Kong",
+    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; sellout=true; productId=5545; area_code=th; area_code=hk; device_count_defaulted_to_1; dashboard_current_products_overlay_applied",
     "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb__90d"
   },
   {
@@ -7585,7 +7585,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "75折",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_diff_over_30pct; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=SVIP; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb__180d"
   },
@@ -7615,7 +7615,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "75折",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_diff_over_30pct; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=SVIP; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb__180d"
   },
@@ -7645,7 +7645,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "75折",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_diff_over_30pct; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=SVIP; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb__180d"
   },
@@ -7765,8 +7765,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "180 days; 日常价",
-    "supported_server_regions": "Singapore; Hong Kong",
-    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; sellout=true; productId=5552; area_code=hk; device_count_defaulted_to_1; dashboard_current_products_overlay_applied",
+    "supported_server_regions": "Singapore; Thailand; Hong Kong",
+    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; sellout=true; productId=5552; area_code=th; area_code=hk; device_count_defaulted_to_1; dashboard_current_products_overlay_applied",
     "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb__180d"
   },
   {
@@ -7855,7 +7855,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "75折",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_same; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=SVIP; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb__365d"
   },
@@ -7885,7 +7885,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "75折",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=SVIP; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb__365d"
   },
@@ -7915,7 +7915,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "75折",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=SVIP; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb__365d"
   },
@@ -8035,8 +8035,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "365 days; Best Value!; 日常价",
-    "supported_server_regions": "Singapore; Hong Kong",
-    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; sellout=true; productId=5560; area_code=hk; device_count_defaulted_to_1; dashboard_current_products_overlay_applied",
+    "supported_server_regions": "Singapore; Thailand; Hong Kong",
+    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; sellout=true; productId=5560; area_code=th; area_code=hk; device_count_defaulted_to_1; dashboard_current_products_overlay_applied",
     "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb__365d"
   },
   {
@@ -8117,7 +8117,7 @@
     "competitor_list_price_30d": 18.985714,
     "competitor_discount_rate": 0.099323,
     "competitor_price_basis": "promo_price",
-    "config_similarity_score": 51,
+    "config_similarity_score": 49.67,
     "quality_adjustment_factor": null,
     "quality_adjusted_price_30d": null,
     "adjusted_delta": null,
@@ -8125,7 +8125,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "75折",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=SVIP; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__7d"
   },
@@ -8147,7 +8147,7 @@
     "competitor_list_price_30d": 18.985714,
     "competitor_discount_rate": 0.099323,
     "competitor_price_basis": "promo_price",
-    "config_similarity_score": 51,
+    "config_similarity_score": 49.67,
     "quality_adjustment_factor": null,
     "quality_adjusted_price_30d": null,
     "adjusted_delta": null,
@@ -8155,7 +8155,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "75折",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=SVIP; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__7d"
   },
@@ -8177,7 +8177,7 @@
     "competitor_list_price_30d": 18.985714,
     "competitor_discount_rate": 0.099323,
     "competitor_price_basis": "promo_price",
-    "config_similarity_score": 49,
+    "config_similarity_score": 47.67,
     "quality_adjustment_factor": null,
     "quality_adjusted_price_30d": null,
     "adjusted_delta": null,
@@ -8185,7 +8185,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "75折",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=SVIP; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__7d"
   },
@@ -8267,7 +8267,7 @@
     "competitor_list_price_30d": 25.5,
     "competitor_discount_rate": 0.168067,
     "competitor_price_basis": "promo_price",
-    "config_similarity_score": 62.35,
+    "config_similarity_score": 63.69,
     "quality_adjustment_factor": null,
     "quality_adjusted_price_30d": null,
     "adjusted_delta": null,
@@ -8297,7 +8297,7 @@
     "competitor_list_price_30d": 18.7125,
     "competitor_discount_rate": 0.0,
     "competitor_price_basis": "promo_price",
-    "config_similarity_score": 81,
+    "config_similarity_score": 80.33,
     "quality_adjustment_factor": 1.115607,
     "quality_adjusted_price_30d": 20.875795,
     "adjusted_delta": 4.632938,
@@ -8357,12 +8357,12 @@
     "competitor_list_price_30d": 29.9,
     "competitor_discount_rate": 0.0,
     "competitor_price_basis": "promo_price",
-    "config_similarity_score": 75,
+    "config_similarity_score": 74.33,
     "quality_adjustment_factor": 1.115607,
     "quality_adjusted_price_30d": 33.356647,
     "adjusted_delta": 17.11379,
     "adjusted_delta_pct": 1.053619,
-    "comparability_level": "adjusted_match",
+    "comparability_level": "weak_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "3 days; 日常价",
     "supported_server_regions": "Taiwan; Singapore",
@@ -8387,7 +8387,7 @@
     "competitor_list_price_30d": 15.39,
     "competitor_discount_rate": 0.2859,
     "competitor_price_basis": "promo_price",
-    "config_similarity_score": 51,
+    "config_similarity_score": 49.67,
     "quality_adjustment_factor": null,
     "quality_adjusted_price_30d": null,
     "adjusted_delta": null,
@@ -8395,7 +8395,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "75折",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=SVIP; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__30d"
   },
@@ -8417,7 +8417,7 @@
     "competitor_list_price_30d": 15.39,
     "competitor_discount_rate": 0.2859,
     "competitor_price_basis": "promo_price",
-    "config_similarity_score": 51,
+    "config_similarity_score": 49.67,
     "quality_adjustment_factor": null,
     "quality_adjusted_price_30d": null,
     "adjusted_delta": null,
@@ -8425,7 +8425,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "75折",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=SVIP; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__30d"
   },
@@ -8447,7 +8447,7 @@
     "competitor_list_price_30d": 15.39,
     "competitor_discount_rate": 0.2859,
     "competitor_price_basis": "promo_price",
-    "config_similarity_score": 49,
+    "config_similarity_score": 47.67,
     "quality_adjustment_factor": null,
     "quality_adjusted_price_30d": null,
     "adjusted_delta": null,
@@ -8455,7 +8455,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "75折",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=SVIP; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__30d"
   },
@@ -8567,7 +8567,7 @@
     "competitor_list_price_30d": 12.99,
     "competitor_discount_rate": 0.115473,
     "competitor_price_basis": "promo_price",
-    "config_similarity_score": 84,
+    "config_similarity_score": 83.33,
     "quality_adjustment_factor": 1.115607,
     "quality_adjusted_price_30d": 14.491734,
     "adjusted_delta": 4.501734,
@@ -8597,7 +8597,7 @@
     "competitor_list_price_30d": 12.99,
     "competitor_discount_rate": 0.115473,
     "competitor_price_basis": "promo_price",
-    "config_similarity_score": 84,
+    "config_similarity_score": 83.33,
     "quality_adjustment_factor": 1.115607,
     "quality_adjusted_price_30d": 12.818324,
     "adjusted_delta": 2.828324,
@@ -8657,7 +8657,7 @@
     "competitor_list_price_30d": 17.996667,
     "competitor_discount_rate": 0.500093,
     "competitor_price_basis": "promo_price",
-    "config_similarity_score": 51,
+    "config_similarity_score": 49.67,
     "quality_adjustment_factor": null,
     "quality_adjusted_price_30d": null,
     "adjusted_delta": null,
@@ -8665,7 +8665,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "75折",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=SVIP; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__90d"
   },
@@ -8687,7 +8687,7 @@
     "competitor_list_price_30d": 17.996667,
     "competitor_discount_rate": 0.500093,
     "competitor_price_basis": "promo_price",
-    "config_similarity_score": 51,
+    "config_similarity_score": 49.67,
     "quality_adjustment_factor": null,
     "quality_adjusted_price_30d": null,
     "adjusted_delta": null,
@@ -8695,7 +8695,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "75折",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=SVIP; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__90d"
   },
@@ -8717,7 +8717,7 @@
     "competitor_list_price_30d": 17.996667,
     "competitor_discount_rate": 0.500093,
     "competitor_price_basis": "promo_price",
-    "config_similarity_score": 49,
+    "config_similarity_score": 47.67,
     "quality_adjustment_factor": null,
     "quality_adjusted_price_30d": null,
     "adjusted_delta": null,
@@ -8725,7 +8725,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "75折",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=SVIP; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__90d"
   },
@@ -8807,7 +8807,7 @@
     "competitor_list_price_30d": 13.316667,
     "competitor_discount_rate": 0.100125,
     "competitor_price_basis": "promo_price",
-    "config_similarity_score": 62.35,
+    "config_similarity_score": 63.69,
     "quality_adjustment_factor": null,
     "quality_adjusted_price_30d": null,
     "adjusted_delta": null,
@@ -8837,7 +8837,7 @@
     "competitor_list_price_30d": 12.99,
     "competitor_discount_rate": 0.333077,
     "competitor_price_basis": "promo_price",
-    "config_similarity_score": 84,
+    "config_similarity_score": 83.33,
     "quality_adjustment_factor": 1.115607,
     "quality_adjusted_price_30d": 9.664874,
     "adjusted_delta": -0.331793,
@@ -8897,7 +8897,7 @@
     "competitor_list_price_30d": 12.99,
     "competitor_discount_rate": 0.333077,
     "competitor_price_basis": "promo_price",
-    "config_similarity_score": 76.17,
+    "config_similarity_score": 75.5,
     "quality_adjustment_factor": 0.891087,
     "quality_adjusted_price_30d": 7.719788,
     "adjusted_delta": -2.276879,
@@ -8905,8 +8905,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "90 days; 日常价",
-    "supported_server_regions": "Singapore; Hong Kong",
-    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; sellout=true; productId=5545; area_code=hk; device_count_defaulted_to_1; dashboard_current_products_overlay_applied",
+    "supported_server_regions": "Singapore; Thailand; Hong Kong",
+    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; sellout=true; productId=5545; area_code=th; area_code=hk; device_count_defaulted_to_1; dashboard_current_products_overlay_applied",
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__90d"
   },
   {
@@ -8927,7 +8927,7 @@
     "competitor_list_price_30d": 17.996667,
     "competitor_discount_rate": 0.500093,
     "competitor_price_basis": "promo_price",
-    "config_similarity_score": 42,
+    "config_similarity_score": 40.67,
     "quality_adjustment_factor": null,
     "quality_adjusted_price_30d": null,
     "adjusted_delta": null,
@@ -8935,7 +8935,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "75折",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_diff_over_30pct; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=SVIP; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__180d"
   },
@@ -8957,7 +8957,7 @@
     "competitor_list_price_30d": 17.996667,
     "competitor_discount_rate": 0.500093,
     "competitor_price_basis": "promo_price",
-    "config_similarity_score": 42,
+    "config_similarity_score": 40.67,
     "quality_adjustment_factor": null,
     "quality_adjusted_price_30d": null,
     "adjusted_delta": null,
@@ -8965,7 +8965,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "75折",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_diff_over_30pct; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=SVIP; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__180d"
   },
@@ -8987,7 +8987,7 @@
     "competitor_list_price_30d": 15.39,
     "competitor_discount_rate": 0.2859,
     "competitor_price_basis": "promo_price",
-    "config_similarity_score": 42,
+    "config_similarity_score": 40.67,
     "quality_adjustment_factor": null,
     "quality_adjusted_price_30d": null,
     "adjusted_delta": null,
@@ -8995,7 +8995,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "75折",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_diff_over_30pct; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=SVIP; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__180d"
   },
@@ -9107,7 +9107,7 @@
     "competitor_list_price_30d": 12.99,
     "competitor_discount_rate": 0.345907,
     "competitor_price_basis": "promo_price",
-    "config_similarity_score": 84,
+    "config_similarity_score": 83.33,
     "quality_adjustment_factor": 1.115607,
     "quality_adjusted_price_30d": 9.478941,
     "adjusted_delta": 0.647274,
@@ -9167,7 +9167,7 @@
     "competitor_list_price_30d": 12.99,
     "competitor_discount_rate": 0.345907,
     "competitor_price_basis": "promo_price",
-    "config_similarity_score": 76.17,
+    "config_similarity_score": 75.5,
     "quality_adjustment_factor": 0.891087,
     "quality_adjusted_price_30d": 7.571274,
     "adjusted_delta": -1.260393,
@@ -9175,8 +9175,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "180 days; 日常价",
-    "supported_server_regions": "Singapore; Hong Kong",
-    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; sellout=true; productId=5552; area_code=hk; device_count_defaulted_to_1; dashboard_current_products_overlay_applied",
+    "supported_server_regions": "Singapore; Thailand; Hong Kong",
+    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; sellout=true; productId=5552; area_code=th; area_code=hk; device_count_defaulted_to_1; dashboard_current_products_overlay_applied",
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__180d"
   },
   {
@@ -9197,7 +9197,7 @@
     "competitor_list_price_30d": 8.751781,
     "competitor_discount_rate": 0.333302,
     "competitor_price_basis": "promo_price",
-    "config_similarity_score": 51,
+    "config_similarity_score": 49.67,
     "quality_adjustment_factor": null,
     "quality_adjusted_price_30d": null,
     "adjusted_delta": null,
@@ -9205,7 +9205,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "75折",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=SVIP; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__365d"
   },
@@ -9227,7 +9227,7 @@
     "competitor_list_price_30d": 8.751781,
     "competitor_discount_rate": 0.333302,
     "competitor_price_basis": "promo_price",
-    "config_similarity_score": 51,
+    "config_similarity_score": 49.67,
     "quality_adjustment_factor": null,
     "quality_adjusted_price_30d": null,
     "adjusted_delta": null,
@@ -9235,7 +9235,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "75折",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=SVIP; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__365d"
   },
@@ -9257,7 +9257,7 @@
     "competitor_list_price_30d": 8.751781,
     "competitor_discount_rate": 0.333302,
     "competitor_price_basis": "promo_price",
-    "config_similarity_score": 49,
+    "config_similarity_score": 47.67,
     "quality_adjustment_factor": null,
     "quality_adjusted_price_30d": null,
     "adjusted_delta": null,
@@ -9265,7 +9265,7 @@
     "comparability_level": "not_comparable",
     "pairing_source": "manual_mapping",
     "promotion_text": "75折",
-    "supported_server_regions": "Indonesia; Hong Kong; Thailand; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy; United States",
+    "supported_server_regions": "Indonesia; Hong Kong; Thailand; United States; Singapore; Germany; Vietnam; Taiwan; Brazil; Japan; South Korea; Italy",
     "notes": "手工推荐: SVIP / 8C / 5.3GB / 85GB。; android_competitor_higher; cpu_missing; ram_missing; storage_missing; region_overlap; duration_same; not_comparable_excluded_from_quality_adjustment; api_config_good_time; source_config_name=SVIP; purchase_mode=subscription; quantity=1; api_currentPrice_verified_by_selected_subscription_card; footer_order_total_excluded; subscription_api_price_field=currentPrice; device_count_defaulted_to_1",
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__365d"
   },
@@ -9347,7 +9347,7 @@
     "competitor_list_price_30d": 9.858904,
     "competitor_discount_rate": 0.200083,
     "competitor_price_basis": "promo_price",
-    "config_similarity_score": 62.35,
+    "config_similarity_score": 63.69,
     "quality_adjustment_factor": null,
     "quality_adjusted_price_30d": null,
     "adjusted_delta": null,
@@ -9377,7 +9377,7 @@
     "competitor_list_price_30d": 12.812055,
     "competitor_discount_rate": 0.384206,
     "competitor_price_basis": "promo_price",
-    "config_similarity_score": 84,
+    "config_similarity_score": 83.33,
     "quality_adjustment_factor": 1.115607,
     "quality_adjusted_price_30d": 8.80168,
     "adjusted_delta": 2.391543,
@@ -9437,7 +9437,7 @@
     "competitor_list_price_30d": 12.812055,
     "competitor_discount_rate": 0.384206,
     "competitor_price_basis": "promo_price",
-    "config_similarity_score": 76.17,
+    "config_similarity_score": 75.5,
     "quality_adjustment_factor": 0.891087,
     "quality_adjusted_price_30d": 7.030314,
     "adjusted_delta": 0.620177,
@@ -9445,8 +9445,8 @@
     "comparability_level": "adjusted_match",
     "pairing_source": "manual_mapping",
     "promotion_text": "365 days; Best Value!; 日常价",
-    "supported_server_regions": "Singapore; Hong Kong",
-    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; sellout=true; productId=5560; area_code=hk; device_count_defaulted_to_1; dashboard_current_products_overlay_applied",
+    "supported_server_regions": "Singapore; Thailand; Hong Kong",
+    "notes": "手工推荐: KVIP10/KVIP12/KVIP14，按安卓版本和相似度取最优。; android_competitor_higher; cpu_same; ram_competitor_higher; storage_competitor_lower; region_overlap; duration_same; api_price_list; area_code=sg; cardType=19; sellout=true; productId=5560; area_code=th; area_code=hk; device_count_defaulted_to_1; dashboard_current_products_overlay_applied",
     "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__365d"
   }
 ]

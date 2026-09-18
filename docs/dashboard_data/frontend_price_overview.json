@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T02:53:54+00:00",
+  "updated_at": "2026-09-18T02:23:11+00:00",
   "baseline_config_count": 6,
   "core_duration_buckets": [
     1,
@@ -160,7 +160,7 @@
           "product_model": "SVIP",
           "config": "SVIP / Android 13 / - / - / -",
           "current_price": 26.990001,
-          "config_similarity_score": 51,
+          "config_similarity_score": 49.67,
           "comparability_level": "not_comparable",
           "included_in_core_median": false,
           "exclusion_reason": "not_comparable_not_in_core_median",
@@ -200,7 +200,7 @@
           "product_model": "KVIP",
           "config": "KVIP / Android 12 / 4 cores / 5.3GB / 64GB",
           "current_price": 25.99,
-          "config_similarity_score": 84,
+          "config_similarity_score": 83.33,
           "comparability_level": "adjusted_match",
           "included_in_core_median": true,
           "exclusion_reason": "",
