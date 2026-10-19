@@ -1,161 +1,161 @@
 [
   {
     "name": "products.csv",
-    "path": "output\\latest\\products.csv",
+    "path": "output\\cloud_phone_monitor_20260918_020152\\products.csv",
     "exists": true,
     "size_bytes": 5019844,
     "safe_to_open": true
   },
   {
     "name": "products.xlsx",
-    "path": "output\\latest\\products.xlsx",
+    "path": "output\\cloud_phone_monitor_20260918_020152\\products.xlsx",
     "exists": true,
     "size_bytes": 243133,
     "safe_to_open": true
   },
   {
     "name": "products.jsonl",
-    "path": "output\\latest\\products.jsonl",
+    "path": "output\\cloud_phone_monitor_20260918_020152\\products.jsonl",
     "exists": true,
     "size_bytes": 29150560,
     "safe_to_open": true
   },
   {
     "name": "daily_changes.xlsx",
-    "path": "output\\latest\\daily_changes.xlsx",
+    "path": "output\\cloud_phone_monitor_20260918_020152\\daily_changes.xlsx",
     "exists": true,
     "size_bytes": 39074,
     "safe_to_open": true
   },
   {
     "name": "baseline_products_updated.xlsx",
-    "path": "output\\latest\\baseline_products_updated.xlsx",
+    "path": "output\\cloud_phone_monitor_20260918_020152\\baseline_products_updated.xlsx",
     "exists": false,
     "size_bytes": null,
     "safe_to_open": false
   },
   {
     "name": "quality_price_report.xlsx",
-    "path": "output\\latest\\quality_price_report.xlsx",
+    "path": "output\\cloud_phone_monitor_20260918_020152\\quality_price_report.xlsx",
     "exists": true,
     "size_bytes": 73341,
     "safe_to_open": true
   },
   {
     "name": "run_summary.json",
-    "path": "output\\latest\\run_summary.json",
+    "path": "output\\cloud_phone_monitor_20260918_020152\\run_summary.json",
     "exists": true,
     "size_bytes": 3609,
     "safe_to_open": true
   },
   {
     "name": "collection_contract.json",
-    "path": "output\\latest\\collection_contract.json",
+    "path": "output\\cloud_phone_monitor_20260918_020152\\collection_contract.json",
     "exists": true,
     "size_bytes": 12670,
     "safe_to_open": true
   },
   {
     "name": "run_manifest.json",
-    "path": "output\\latest\\run_manifest.json",
+    "path": "output\\cloud_phone_monitor_20260918_020152\\run_manifest.json",
     "exists": true,
     "size_bytes": 1001,
     "safe_to_open": true
   },
   {
     "name": "history_storage.json",
-    "path": "output\\latest\\history_storage.json",
+    "path": "output\\cloud_phone_monitor_20260918_020152\\history_storage.json",
     "exists": false,
     "size_bytes": null,
     "safe_to_open": false
   },
   {
     "name": "dashboard_data/frontend_price_overview.json",
-    "path": "output\\latest\\dashboard_data\\frontend_price_overview.json",
+    "path": "output\\cloud_phone_monitor_20260918_020152\\dashboard_data\\frontend_price_overview.json",
     "exists": true,
     "size_bytes": 8524,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/pairing_matrix.json",
-    "path": "output\\latest\\dashboard_data\\pairing_matrix.json",
+    "path": "output\\cloud_phone_monitor_20260918_020152\\dashboard_data\\pairing_matrix.json",
     "exists": true,
     "size_bytes": 12807,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/duration_price_comparison.json",
-    "path": "output\\latest\\dashboard_data\\duration_price_comparison.json",
+    "path": "output\\cloud_phone_monitor_20260918_020152\\dashboard_data\\duration_price_comparison.json",
     "exists": true,
     "size_bytes": 124238,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/price_trends.json.gz",
-    "path": "output\\latest\\dashboard_data\\price_trends.json.gz",
+    "path": "output\\cloud_phone_monitor_20260918_020152\\dashboard_data\\price_trends.json.gz",
     "exists": true,
-    "size_bytes": 79994,
+    "size_bytes": 79998,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/price_change_tracking.json",
-    "path": "output\\latest\\dashboard_data\\price_change_tracking.json",
+    "path": "output\\cloud_phone_monitor_20260918_020152\\dashboard_data\\price_change_tracking.json",
     "exists": true,
     "size_bytes": 2,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/product_text_changes.json",
-    "path": "output\\latest\\dashboard_data\\product_text_changes.json",
+    "path": "output\\cloud_phone_monitor_20260918_020152\\dashboard_data\\product_text_changes.json",
     "exists": true,
     "size_bytes": 2,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/metric_definitions.json",
-    "path": "output\\latest\\dashboard_data\\metric_definitions.json",
+    "path": "output\\cloud_phone_monitor_20260918_020152\\dashboard_data\\metric_definitions.json",
     "exists": true,
     "size_bytes": 6196,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/schedule_status.json",
-    "path": "output\\latest\\dashboard_data\\schedule_status.json",
+    "path": "output\\cloud_phone_monitor_20260918_020152\\dashboard_data\\schedule_status.json",
     "exists": true,
     "size_bytes": 401,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/meta.json",
-    "path": "output\\latest\\dashboard_data\\meta.json",
+    "path": "output\\cloud_phone_monitor_20260918_020152\\dashboard_data\\meta.json",
     "exists": true,
-    "size_bytes": 1073,
+    "size_bytes": 1102,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/current_price_snapshot.json",
-    "path": "output\\latest\\dashboard_data\\current_price_snapshot.json",
+    "path": "output\\cloud_phone_monitor_20260918_020152\\dashboard_data\\current_price_snapshot.json",
     "exists": true,
-    "size_bytes": 619871,
+    "size_bytes": 619900,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/collection_contract.json",
-    "path": "output\\latest\\dashboard_data\\collection_contract.json",
+    "path": "output\\cloud_phone_monitor_20260918_020152\\dashboard_data\\collection_contract.json",
     "exists": true,
     "size_bytes": 12670,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/run_manifest.json",
-    "path": "output\\latest\\dashboard_data\\run_manifest.json",
+    "path": "output\\cloud_phone_monitor_20260918_020152\\dashboard_data\\run_manifest.json",
     "exists": true,
     "size_bytes": 1001,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/history_storage.json",
-    "path": "output\\latest\\dashboard_data\\history_storage.json",
+    "path": "output\\cloud_phone_monitor_20260918_020152\\dashboard_data\\history_storage.json",
     "exists": true,
     "size_bytes": 4809,
     "safe_to_open": true

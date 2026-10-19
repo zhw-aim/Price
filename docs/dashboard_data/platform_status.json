@@ -1,15 +1,30 @@
 [
   {
     "platform": "UgPhone",
-    "status": "ok",
-    "collection_status": "ok",
+    "status": "warning",
+    "collection_status": "warning",
     "baseline_coverage_status": "unknown",
     "baseline_coverage_ratio": null,
     "raw_records": 192,
     "product_rows": 87,
     "priced_product_rows": 87,
     "baseline_rows": 0,
-    "missing_vs_baseline": 0
+    "missing_vs_baseline": 0,
+    "config_count": 11,
+    "meal_list_requests": null,
+    "meal_list_success_count": null,
+    "dom_ready": true,
+    "dom_price_card_count": 5,
+    "ugphone_failure_reason": null,
+    "coverage_complete": false,
+    "coverage_status": "partial",
+    "dom_matrix_plan_targets": 5,
+    "dom_matrix_plan_successes": 3,
+    "dom_matrix_variant_targets": 11,
+    "dom_matrix_variant_successes": 6,
+    "dom_matrix_region_targets": 50,
+    "dom_matrix_region_resolved": 22,
+    "coverage_note": "partial_visible_matrix_returned; plans=3/5; variants=6/11; priced_regions=32/50; resolved_regions=22/50; priced_rows=192"
   },
   {
     "platform": "VSPhone",
@@ -25,15 +40,20 @@
   },
   {
     "platform": "Redfinger",
-    "status": "ok",
-    "collection_status": "ok",
+    "status": "warning",
+    "collection_status": "warning",
     "baseline_coverage_status": "unknown",
     "baseline_coverage_ratio": null,
     "raw_records": 229,
     "product_rows": 52,
     "priced_product_rows": 52,
     "baseline_rows": 0,
-    "missing_vs_baseline": 0
+    "missing_vs_baseline": 0,
+    "attempted_combinations": 9,
+    "price_api_seen_combinations": 7,
+    "successful_price_combinations": 7,
+    "price_api_coverage_ratio": 0.777778,
+    "artifact_write_failures": 0
   },
   {
     "platform": "LDCloud",
