@@ -4,435 +4,443 @@
   "codec": "gzip-json-v1",
   "price_trends_file": "price_trends.json.gz",
   "detail_chunk_dir": "price_trends_chunks",
-  "compressed_asset_count": 53,
-  "raw_history_bytes": 258112390,
-  "stored_history_bytes": 3680623,
-  "saved_bytes": 254431767,
-  "space_saving_pct": 98.57,
+  "compressed_asset_count": 54,
+  "raw_history_bytes": 263180154,
+  "stored_history_bytes": 3785320,
+  "saved_bytes": 259394834,
+  "space_saving_pct": 98.56,
   "assets": [
     {
       "file": "price_trends.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 12422613,
-      "stored_bytes": 268218,
-      "saved_bytes": 12154395,
-      "compression_ratio": 0.021591
+      "raw_bytes": 12661939,
+      "stored_bytes": 273071,
+      "saved_bytes": 12388868,
+      "compression_ratio": 0.021566
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0001.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 5114442,
-      "stored_bytes": 71539,
-      "saved_bytes": 5042903,
-      "compression_ratio": 0.013988
+      "raw_bytes": 5225209,
+      "stored_bytes": 72434,
+      "saved_bytes": 5152775,
+      "compression_ratio": 0.013862
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0002.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 5167682,
-      "stored_bytes": 70759,
-      "saved_bytes": 5096923,
-      "compression_ratio": 0.013693
+      "raw_bytes": 4229497,
+      "stored_bytes": 57434,
+      "saved_bytes": 4172063,
+      "compression_ratio": 0.013579
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0003.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 5075114,
-      "stored_bytes": 76394,
-      "saved_bytes": 4998720,
-      "compression_ratio": 0.015053
+      "raw_bytes": 5006923,
+      "stored_bytes": 73443,
+      "saved_bytes": 4933480,
+      "compression_ratio": 0.014668
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0004.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4912448,
-      "stored_bytes": 71516,
-      "saved_bytes": 4840932,
-      "compression_ratio": 0.014558
+      "raw_bytes": 5053581,
+      "stored_bytes": 74895,
+      "saved_bytes": 4978686,
+      "compression_ratio": 0.01482
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0005.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 5171239,
-      "stored_bytes": 69902,
-      "saved_bytes": 5101337,
-      "compression_ratio": 0.013517
+      "raw_bytes": 4651369,
+      "stored_bytes": 61762,
+      "saved_bytes": 4589607,
+      "compression_ratio": 0.013278
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0006.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4769297,
-      "stored_bytes": 62684,
-      "saved_bytes": 4706613,
-      "compression_ratio": 0.013143
+      "raw_bytes": 2480197,
+      "stored_bytes": 33342,
+      "saved_bytes": 2446855,
+      "compression_ratio": 0.013443
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0007.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4783594,
-      "stored_bytes": 62746,
-      "saved_bytes": 4720848,
-      "compression_ratio": 0.013117
+      "raw_bytes": 4862180,
+      "stored_bytes": 64519,
+      "saved_bytes": 4797661,
+      "compression_ratio": 0.01327
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0008.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4805296,
-      "stored_bytes": 62761,
-      "saved_bytes": 4742535,
-      "compression_ratio": 0.013061
+      "raw_bytes": 4876754,
+      "stored_bytes": 64615,
+      "saved_bytes": 4812139,
+      "compression_ratio": 0.01325
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0009.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4770458,
-      "stored_bytes": 63031,
-      "saved_bytes": 4707427,
-      "compression_ratio": 0.013213
+      "raw_bytes": 4890951,
+      "stored_bytes": 64821,
+      "saved_bytes": 4826130,
+      "compression_ratio": 0.013253
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0010.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4792396,
-      "stored_bytes": 62761,
-      "saved_bytes": 4729635,
-      "compression_ratio": 0.013096
+      "raw_bytes": 4863563,
+      "stored_bytes": 64701,
+      "saved_bytes": 4798862,
+      "compression_ratio": 0.013303
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0011.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4735148,
-      "stored_bytes": 62005,
-      "saved_bytes": 4673143,
-      "compression_ratio": 0.013095
+      "raw_bytes": 4874042,
+      "stored_bytes": 64555,
+      "saved_bytes": 4809487,
+      "compression_ratio": 0.013245
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0012.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4756419,
-      "stored_bytes": 62330,
-      "saved_bytes": 4694089,
-      "compression_ratio": 0.013104
+      "raw_bytes": 4827237,
+      "stored_bytes": 63812,
+      "saved_bytes": 4763425,
+      "compression_ratio": 0.013219
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0013.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4778121,
-      "stored_bytes": 62705,
-      "saved_bytes": 4715416,
-      "compression_ratio": 0.013123
+      "raw_bytes": 4848842,
+      "stored_bytes": 64212,
+      "saved_bytes": 4784630,
+      "compression_ratio": 0.013243
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0014.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4736252,
-      "stored_bytes": 62282,
-      "saved_bytes": 4673970,
-      "compression_ratio": 0.01315
+      "raw_bytes": 4863347,
+      "stored_bytes": 64512,
+      "saved_bytes": 4798835,
+      "compression_ratio": 0.013265
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0015.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4757934,
-      "stored_bytes": 62449,
-      "saved_bytes": 4695485,
-      "compression_ratio": 0.013125
+      "raw_bytes": 4828413,
+      "stored_bytes": 64240,
+      "saved_bytes": 4764173,
+      "compression_ratio": 0.013305
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0016.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4736252,
-      "stored_bytes": 62384,
-      "saved_bytes": 4673868,
-      "compression_ratio": 0.013172
+      "raw_bytes": 4844663,
+      "stored_bytes": 64500,
+      "saved_bytes": 4780163,
+      "compression_ratio": 0.013314
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0017.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4757934,
-      "stored_bytes": 62320,
-      "saved_bytes": 4695614,
-      "compression_ratio": 0.013098
+      "raw_bytes": 4828413,
+      "stored_bytes": 64302,
+      "saved_bytes": 4764111,
+      "compression_ratio": 0.013317
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0018.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4779601,
-      "stored_bytes": 62920,
-      "saved_bytes": 4716681,
-      "compression_ratio": 0.013164
+      "raw_bytes": 4850540,
+      "stored_bytes": 64311,
+      "saved_bytes": 4786229,
+      "compression_ratio": 0.013259
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0019.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4736047,
-      "stored_bytes": 60955,
-      "saved_bytes": 4675092,
-      "compression_ratio": 0.01287
+      "raw_bytes": 4863854,
+      "stored_bytes": 64560,
+      "saved_bytes": 4799294,
+      "compression_ratio": 0.013273
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0020.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4764910,
-      "stored_bytes": 62737,
-      "saved_bytes": 4702173,
-      "compression_ratio": 0.013166
+      "raw_bytes": 4828223,
+      "stored_bytes": 63022,
+      "saved_bytes": 4765201,
+      "compression_ratio": 0.013053
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0021.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4735143,
-      "stored_bytes": 62041,
-      "saved_bytes": 4673102,
-      "compression_ratio": 0.013102
+      "raw_bytes": 4850391,
+      "stored_bytes": 64579,
+      "saved_bytes": 4785812,
+      "compression_ratio": 0.013314
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0022.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4787213,
-      "stored_bytes": 62711,
-      "saved_bytes": 4724502,
-      "compression_ratio": 0.0131
+      "raw_bytes": 4843386,
+      "stored_bytes": 64037,
+      "saved_bytes": 4779349,
+      "compression_ratio": 0.013222
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0023.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4808116,
-      "stored_bytes": 63025,
-      "saved_bytes": 4745091,
-      "compression_ratio": 0.013108
+      "raw_bytes": 4879139,
+      "stored_bytes": 64688,
+      "saved_bytes": 4814451,
+      "compression_ratio": 0.013258
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0024.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4765876,
-      "stored_bytes": 62687,
-      "saved_bytes": 4703189,
-      "compression_ratio": 0.013153
+      "raw_bytes": 4894129,
+      "stored_bytes": 64910,
+      "saved_bytes": 4829219,
+      "compression_ratio": 0.013263
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0025.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4787608,
-      "stored_bytes": 62837,
-      "saved_bytes": 4724771,
-      "compression_ratio": 0.013125
+      "raw_bytes": 4858753,
+      "stored_bytes": 64707,
+      "saved_bytes": 4794046,
+      "compression_ratio": 0.013318
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0026.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4761690,
-      "stored_bytes": 65524,
-      "saved_bytes": 4696166,
-      "compression_ratio": 0.013761
+      "raw_bytes": 4863191,
+      "stored_bytes": 65104,
+      "saved_bytes": 4798087,
+      "compression_ratio": 0.013387
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0027.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4762643,
-      "stored_bytes": 62323,
-      "saved_bytes": 4700320,
-      "compression_ratio": 0.013086
+      "raw_bytes": 4853474,
+      "stored_bytes": 66861,
+      "saved_bytes": 4786613,
+      "compression_ratio": 0.013776
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0028.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4812963,
-      "stored_bytes": 65815,
-      "saved_bytes": 4747148,
-      "compression_ratio": 0.013675
+      "raw_bytes": 4880063,
+      "stored_bytes": 63534,
+      "saved_bytes": 4816529,
+      "compression_ratio": 0.013019
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0029.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4827033,
-      "stored_bytes": 66001,
-      "saved_bytes": 4761032,
-      "compression_ratio": 0.013673
+      "raw_bytes": 4906608,
+      "stored_bytes": 67698,
+      "saved_bytes": 4838910,
+      "compression_ratio": 0.013797
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0030.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4798222,
-      "stored_bytes": 65940,
-      "saved_bytes": 4732282,
-      "compression_ratio": 0.013743
+      "raw_bytes": 4913424,
+      "stored_bytes": 67767,
+      "saved_bytes": 4845657,
+      "compression_ratio": 0.013792
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0031.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4819931,
-      "stored_bytes": 66159,
-      "saved_bytes": 4753772,
-      "compression_ratio": 0.013726
+      "raw_bytes": 4891550,
+      "stored_bytes": 67789,
+      "saved_bytes": 4823761,
+      "compression_ratio": 0.013858
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0032.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4736232,
-      "stored_bytes": 62344,
-      "saved_bytes": 4673888,
-      "compression_ratio": 0.013163
+      "raw_bytes": 4888388,
+      "stored_bytes": 67729,
+      "saved_bytes": 4820659,
+      "compression_ratio": 0.013855
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0033.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4757934,
-      "stored_bytes": 62319,
-      "saved_bytes": 4695615,
-      "compression_ratio": 0.013098
+      "raw_bytes": 4828408,
+      "stored_bytes": 64318,
+      "saved_bytes": 4764090,
+      "compression_ratio": 0.013321
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0034.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4779273,
-      "stored_bytes": 62873,
-      "saved_bytes": 4716400,
-      "compression_ratio": 0.013155
+      "raw_bytes": 4850540,
+      "stored_bytes": 64298,
+      "saved_bytes": 4786242,
+      "compression_ratio": 0.013256
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0035.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4736252,
-      "stored_bytes": 62366,
-      "saved_bytes": 4673886,
-      "compression_ratio": 0.013168
+      "raw_bytes": 4863352,
+      "stored_bytes": 64621,
+      "saved_bytes": 4798731,
+      "compression_ratio": 0.013287
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0036.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4757889,
-      "stored_bytes": 62575,
-      "saved_bytes": 4695314,
-      "compression_ratio": 0.013152
+      "raw_bytes": 4828413,
+      "stored_bytes": 64398,
+      "saved_bytes": 4764015,
+      "compression_ratio": 0.013337
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0037.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 5052408,
-      "stored_bytes": 59801,
-      "saved_bytes": 4992607,
-      "compression_ratio": 0.011836
+      "raw_bytes": 4853552,
+      "stored_bytes": 64515,
+      "saved_bytes": 4789037,
+      "compression_ratio": 0.013292
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0038.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4882655,
-      "stored_bytes": 64772,
-      "saved_bytes": 4817883,
-      "compression_ratio": 0.013266
+      "raw_bytes": 5151749,
+      "stored_bytes": 61623,
+      "saved_bytes": 5090126,
+      "compression_ratio": 0.011962
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0039.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4305791,
-      "stored_bytes": 61241,
-      "saved_bytes": 4244550,
-      "compression_ratio": 0.014223
+      "raw_bytes": 4339594,
+      "stored_bytes": 58862,
+      "saved_bytes": 4280732,
+      "compression_ratio": 0.013564
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0040.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4999256,
-      "stored_bytes": 73715,
-      "saved_bytes": 4925541,
-      "compression_ratio": 0.014745
+      "raw_bytes": 4391284,
+      "stored_bytes": 62636,
+      "saved_bytes": 4328648,
+      "compression_ratio": 0.014264
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0041.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4522482,
-      "stored_bytes": 59584,
-      "saved_bytes": 4462898,
-      "compression_ratio": 0.013175
+      "raw_bytes": 5107294,
+      "stored_bytes": 75475,
+      "saved_bytes": 5031819,
+      "compression_ratio": 0.014778
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0042.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4368135,
-      "stored_bytes": 65428,
-      "saved_bytes": 4302707,
-      "compression_ratio": 0.014978
+      "raw_bytes": 4616272,
+      "stored_bytes": 61112,
+      "saved_bytes": 4555160,
+      "compression_ratio": 0.013238
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0043.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4679649,
-      "stored_bytes": 79413,
-      "saved_bytes": 4600236,
-      "compression_ratio": 0.01697
+      "raw_bytes": 4456801,
+      "stored_bytes": 67088,
+      "saved_bytes": 4389713,
+      "compression_ratio": 0.015053
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0044.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4770303,
-      "stored_bytes": 74869,
-      "saved_bytes": 4695434,
-      "compression_ratio": 0.015695
+      "raw_bytes": 4770770,
+      "stored_bytes": 83747,
+      "saved_bytes": 4687023,
+      "compression_ratio": 0.017554
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0045.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 5133808,
-      "stored_bytes": 79213,
-      "saved_bytes": 5054595,
-      "compression_ratio": 0.01543
+      "raw_bytes": 4861950,
+      "stored_bytes": 78426,
+      "saved_bytes": 4783524,
+      "compression_ratio": 0.016131
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0046.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4186041,
-      "stored_bytes": 69144,
-      "saved_bytes": 4116897,
-      "compression_ratio": 0.016518
+      "raw_bytes": 5231134,
+      "stored_bytes": 81115,
+      "saved_bytes": 5150019,
+      "compression_ratio": 0.015506
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0047.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4444593,
-      "stored_bytes": 69664,
-      "saved_bytes": 4374929,
-      "compression_ratio": 0.015674
+      "raw_bytes": 4274911,
+      "stored_bytes": 70974,
+      "saved_bytes": 4203937,
+      "compression_ratio": 0.016602
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0048.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 5190986,
-      "stored_bytes": 85393,
-      "saved_bytes": 5105593,
-      "compression_ratio": 0.01645
+      "raw_bytes": 4532990,
+      "stored_bytes": 73050,
+      "saved_bytes": 4459940,
+      "compression_ratio": 0.016115
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0049.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4279078,
-      "stored_bytes": 67358,
-      "saved_bytes": 4211720,
-      "compression_ratio": 0.015741
+      "raw_bytes": 4174616,
+      "stored_bytes": 70585,
+      "saved_bytes": 4104031,
+      "compression_ratio": 0.016908
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0050.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 5146437,
-      "stored_bytes": 85056,
-      "saved_bytes": 5061381,
-      "compression_ratio": 0.016527
+      "raw_bytes": 4398475,
+      "stored_bytes": 71746,
+      "saved_bytes": 4326729,
+      "compression_ratio": 0.016312
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0051.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 4435486,
-      "stored_bytes": 69538,
-      "saved_bytes": 4365948,
-      "compression_ratio": 0.015678
+      "raw_bytes": 4146667,
+      "stored_bytes": 65999,
+      "saved_bytes": 4080668,
+      "compression_ratio": 0.015916
     },
     {
       "file": "price_trends_chunks/price_trends_detail_0052.json.gz",
       "codec": "gzip-json-v1",
-      "raw_bytes": 1958067,
-      "stored_bytes": 33496,
-      "saved_bytes": 1924571,
-      "compression_ratio": 0.017107
+      "raw_bytes": 4402546,
+      "stored_bytes": 74026,
+      "saved_bytes": 4328520,
+      "compression_ratio": 0.016814
+    },
+    {
+      "file": "price_trends_chunks/price_trends_detail_0053.json.gz",
+      "codec": "gzip-json-v1",
+      "raw_bytes": 4316603,
+      "stored_bytes": 70240,
+      "saved_bytes": 4246363,
+      "compression_ratio": 0.016272
     }
   ],
   "browser_loading_rule": "Fetch .json.gz as bytes; if gzip magic is present, decompress with DecompressionStream('gzip'); if hosting already decoded it, parse returned UTF-8 JSON directly.",
