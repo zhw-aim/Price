@@ -94,7 +94,7 @@
     "name": "dashboard_data/price_trends.json.gz",
     "path": "output\\cloud_phone_monitor_20260918_020152\\dashboard_data\\price_trends.json.gz",
     "exists": true,
-    "size_bytes": 79998,
+    "size_bytes": 263293,
     "safe_to_open": true
   },
   {
@@ -122,7 +122,7 @@
     "name": "dashboard_data/schedule_status.json",
     "path": "output\\cloud_phone_monitor_20260918_020152\\dashboard_data\\schedule_status.json",
     "exists": true,
-    "size_bytes": 401,
+    "size_bytes": 404,
     "safe_to_open": true
   },
   {
@@ -157,7 +157,7 @@
     "name": "dashboard_data/history_storage.json",
     "path": "output\\cloud_phone_monitor_20260918_020152\\dashboard_data\\history_storage.json",
     "exists": true,
-    "size_bytes": 4809,
+    "size_bytes": 13386,
     "safe_to_open": true
   }
 ]
